@@ -6,7 +6,8 @@ Lightning Talks
 ---------------
 
 
-Shape-it with RDKit backend
+** Shape-it with RDKit backend **
+
 Jan Domanski
 
 Source: https://github.com/jandom/shape-it-rdkit
