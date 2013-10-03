@@ -6,7 +6,7 @@ Lightning Talks
 ---------------
 
 
-** Shape-it with RDKit backend **
+**Shape-it with RDKit backend**
 
 Jan Domanski
 
