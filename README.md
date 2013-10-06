@@ -131,6 +131,8 @@ Tutorials
 **ESOL/Diversity Filter**
 
 Christos Kannas
+Slides: [Presentations/Kannas.2nd_RDKit_UGM_2013_ESOL.pdf](Presentations/Kannas.2nd_RDKit_UGM_2013_ESOL.pdf)
+Notebook: [Notebookss/ESOL/](Notebookss/ESOL/)
 
 - - - - - - 
 
