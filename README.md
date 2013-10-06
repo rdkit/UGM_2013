@@ -132,7 +132,13 @@ Tutorials
 
 Christos Kannas
 Slides: [Presentations/Kannas.2nd_RDKit_UGM_2013_ESOL.pdf](Presentations/Kannas.2nd_RDKit_UGM_2013_ESOL.pdf)
-Notebook: [Notebookss/ESOL/](Notebookss/ESOL/)
+IPython Notebook: [Download](Notebooks/ESOL/ESOL.ipyb) [View](http://nbviewer.ipython.org/urls/raw.github.com/rdkit/UGM_2013/master/Notebooks/ESOL/ESOL.ipynb)
+Supplementary Data: [Download](Notebooks/ESOL/Delaney_SupplData.smi)
+Results: [Download](Notebooks/ESOL/ESOL_Results.csv)
+
+Slides: [Presentations/Kannas.2nd_RDKit_UGM_2013_Diversity_Filtering.pdf](Presentations/Kannas.2nd_RDKit_UGM_2013_Diversity_Filtering..pdf)
+IPython Notebook: [Download](Notebooks/DiversityFiltering/Diversity_Filtering.ipyb) [View](http://nbviewer.ipython.org/urls/raw.github.com/rdkit/UGM_2013/master/Notebooks/DiversityFiltering/Diversity_Filtering.ipynb)
+
 
 - - - - - - 
 
