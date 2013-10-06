@@ -1,0 +1,1145 @@
+SMILES	Compound Name	measured log(solubility:mol/L)	ESOL predicted log(solubility:mol/L)
+ClCC(Cl)(Cl)Cl	"1,1,1,2-Tetrachloroethane"	-2.18	-2.794
+CC(Cl)(Cl)Cl	"1,1,1-Trichloroethane"	-2	-2.232
+ClC(Cl)C(Cl)Cl	"1,1,2,2-Tetrachloroethane"	-1.74	-2.549
+ClCC(Cl)Cl	"1,1,2-Trichloroethane"	-1.48	-1.961
+FC(F)(Cl)C(F)(Cl)Cl	"1,1,2-Trichlorotrifluoroethane"	-3.04	-3.077
+CC(Cl)Cl	"1,1-Dichloroethane"	-1.29	-1.576
+ClC(=C)Cl	"1,1-Dichloroethylene"	-1.64	-1.939
+CCOC(C)OCC	"1,1-Diethoxyethane "	-0.43	-0.899
+Clc1ccc(Cl)c(Cl)c1Cl	"1,2,3,4-Tetrachlorobenzene"	-4.57	-4.546
+C1CCc2ccccc2C1	"1,2,3,4-Tetrahydronapthalene"	-4.37	-3.447
+Clc1cc(Cl)c(Cl)c(Cl)c1	"1,2,3,5-Tetrachlorobenzene"	-4.63	-4.621
+Clc1cccc(Cl)c1Cl	"1,2,3-Trichlorobenzene"	-4	-4.008
+Cc1cccc(C)c1C	"1,2,3-Trimethylbenzene "	-3.2	-3.312
+Brc1cc(Br)c(Br)cc1Br	"1,2,4,5-Tetrabromobenzene"	-6.98	-6.001
+Clc1cc(Cl)c(Cl)cc1Cl	"1,2,4,5-Tetrachlorobenzene"	-5.56	-4.621
+Cc1cc(C)c(C)cc1C	"1,2,4,5-Tetramethylbenzene"	-4.59	-3.664
+c1(Br)c(Br)cc(Br)cc1	"1,2,4-tribromobenzene"	-4.5	-5.144
+Clc1ccc(Cl)c(Cl)c1	"1,2,4-Trichlorobenzene"	-3.59	-4.083
+Cc1ccc(C)c(C)c1	"1,2,4-Trimethylbenzene"	-3.31	-3.343
+Oc1ccccc1O	"1,2-Benzenediol"	0.62	-1.635
+Brc1ccccc1Br	"1,2-Dibromobenzene"	-3.5	-4.172
+BrCCBr	"1,2-Dibromoethane"	-1.68	-2.102
+Clc1ccccc1Cl	"1,2-Dichlorobenzene"	-3.05	-3.482
+ClCCCl	"1,2-Dichloroethane"	-1.06	-1.374
+CC(Cl)CCl	"1,2-Dichloropropane"	-1.6	-1.794
+FC(F)(Cl)C(F)(F)Cl	"1,2-Dichlorotetrafluoroethane"	-2.74	-2.697
+CCOCCOCC	"1,2-Diethoxyethane "	-0.77	-0.833
+CCc1ccccc1CC	"1,2-Diethylbenzene"	-3.28	-3.601
+O=N(=O)c1ccccc1N(=O)=O	"1,2-Dinitrobenzene"	-3.1	-2.281
+CC1CO1	"1,2-Propylene oxide"	-0.59	-0.358
+Brc1cc(Br)cc(Br)c1	"1,3,5-Tribromobenzene"	-5.6	-5.27
+Clc1cc(Cl)cc(Cl)c1	"1,3,5-Trichlorobenzene"	-4.48	-4.159
+Cc1cc(C)cc(C)c1	"1,3,5-Trimethylbenzene "	-3.4	-3.375
+O=N(=O)c1cc(cc(c1)N(=O)=O)N(=O)=O	"1,3,5-Trinitrobenzene"	-2.89	-2.324
+Oc1cccc(O)c1	"1,3-Benzenediol"	0.81	-1.59
+C=CC=C	"1,3-Butadiene"	-1.87	-1.376
+Brc1cccc(Br)c1	"1,3-Dibromobenzene"	-3.54	-4.298
+Clc1cccc(Cl)c1	"1,3-Dichlorobenzene"	-3.04	-3.558
+ClCCCCl	"1,3-Dichloropropane"	-1.62	-1.618
+CCNC(=S)NCC	"1,3-diethylthiourea"	-1.46	-1.028
+Fc1cccc(F)c1	"1,3-Difluorobenzene"	-2	-2.636
+Cc1cc(C)c2ccccc2c1	"1,3-Dimethylnaphthalene"	-4.29	-4.147
+O=N(=O)c1cccc(c1)N(=O)=O	"1,3-Dinitrobenzene"	-2.29	-2.281
+Oc1ccc(O)cc1	"1,4-Benzenediol"	-0.17	-1.59
+C1C=CCC=C1	"1,4-Cyclohexadiene"	-2.06	-1.842
+Brc1ccc(Br)cc1	"1,4-Dibromobenzene"	-4.07	-4.298
+Clc1ccc(Cl)cc1	"1,4-Dichlorobenzene"	-3.27	-3.558
+CCc1ccc(CC)cc1	"1,4-Diethylbenzene "	-3.75	-3.633
+Fc1ccc(F)cc1	"1,4-Difluorobenzene"	-1.97	-2.636
+Cc1ccc(C)c2ccccc12	"1,4-Dimethylnaphthalene "	-4.14	-4.147
+O=N(=O)c1ccc(cc1)N(=O)=O	"1,4-Dinitrobenzene"	-3.39	-2.281
+C=CCC=C	"1,4-Pentadiene "	-2.09	-1.758
+Cc1cccc2c(C)cccc12	"1,5-Dimethlnapthalene"	-4.679	-4.147
+C=CCCC=C	"1,5-Hexadiene "	-2.68	-2.112
+c1cnc2c(c1)ccc3ncccc23	"1,7-phenantroline"	-2.68	-2.994
+CC12CCC(CC1)C(C)(C)O2	"1,8-Cineole"	-1.74	-2.579
+CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C	17a-Methyltestosterone	-3.999	-4.073
+Nc2cccc3nc1ccccc1cc23 	1-aminoacridine	-4.22	-3.542
+CC(C)CBr	1-Bromo-2-methylpropane	-2.43	-2.288
+CCCCBr	1-Bromobutane	-2.37	-2.303
+CCCCCCCBr	1-Bromoheptane	-4.43	-3.366
+CCCCCCBr	1-Bromohexane	-3.81	-3.012
+Brc1cccc2ccccc12	1-Bromonapthalene	-4.35	-4.434
+CCCCCCCCBr	1-Bromooctane	-5.06	-3.721
+CCCCCBr	1-Bromopentane	-3.08	-2.658
+CCCBr	1-Bromopropane	-1.73	-1.949
+CCCCO	1-Butanol	0	-0.688
+CCC=C	1-Butene	-1.94	-1.655
+CCC#C	1-Butyne	-1.24	-1.092
+ClCCBr	1-Chloro-2-bromoethane	-1.32	-1.738
+ClCC(C)C	1-Chloro-2-methylpropane	-2	-1.924
+CCCCCl	1-Chlorobutane	-2.03	-1.94
+CCCCCCCCl	1-Chloroheptane	-4	-3.003
+CCCCCCCl	1-Chlorohexane	-3.12	-2.648
+Clc1cccc2ccccc12	1-Chloronapthalene	-3.93	-4.063
+CCCCCCl	1-Chloropentane	-2.73	-2.294
+CCCCl	1-Chloropropane	-1.47	-1.585
+CCCCCCCCCCO	1-Decanol	-3.63	-2.814
+CCCCCCCCC=C	1-Decene	-5.51	-3.781
+CCCCCCCCCCCCO	1-Dodecanol	-4.8	-3.523
+CCc1cccc2ccccc12	1-Ethylnaphthalene 	-4.17	-4.1
+CCCCCCCO	1-Heptanol	-1.81	-1.751
+CCCCCC=C	1-Heptene	-3.73	-2.718
+CCCCCC#C	1-Heptyne	-3.01	-2.155
+CCCCCCCCCCCCCCCCO	1-Hexadecanol	-7	-4.94
+CCCCCCO	1-Hexanol	-1.24	-1.397
+CCCCC=C	1-Hexene	-3.23	-2.364
+CCCC(O)C=C	1-Hexene-3-ol	-0.59	-1.199
+CCCCC#C	1-Hexyne 	-2.36	-1.801
+CCCCI	1-Iodobutane	-2.96	-2.841
+CCCCCCCI	1-Iodoheptane	-4.81	-3.904
+Ic1cccc2ccccc12	1-Iodonapthalene	-4.55	-4.889
+CCCI	1-Iodopropane	-2.29	-2.486
+CC1=CCCCC1	1-Methylcyclohexene 	-3.27	-2.574
+Cc1cccc2c1Cc3ccccc32	1-Methylfluorene	-5.22	-4.478
+Cc1cccc2ccccc12	1-Methylnaphthalene	-3.7	-3.802
+Cc1cccc2c1ccc3ccccc32	1-Methylphenanthrene	-5.85	-4.87
+Cn1ccc(=O)[nH]c1=O	1-methyluracil	-0.807	-0.375
+Oc1cccc2ccccc12	1-Napthol	-2.22	-3.08
+Nc1cccc2ccccc12	1-Napthylamine	-1.92	-2.721
+O=N(=O)c1cccc2ccccc12	1-Nitronapthalene	-3.54	-3.414
+CCCN(=O)=O	1-Nitropropane	-0.8	-0.816
+CCCCCCCCCO	1-Nonanol	-3.01	-2.46
+CCCCCCCC=C	1-Nonene 	-5.05	-3.427
+CCCCCCCC#C	1-Nonyne 	-4.24	-2.864
+CCCCCCCCCCCCCCCCCCO	1-Octadecanol	-8.4	-5.649
+CCCCCCCCO	1-Octanol	-2.39	-2.105
+CCCCCCC=C	1-Octene 	-4.44	-3.073
+CCCCCCC#C	1-Octyne 	-3.66	-2.509
+CCCCCCCCCCCCCCCO	1-Pentadecanol	-6.35	-4.586
+CCCCCO	1-Pentanol	-0.6	-1.042
+CCCC=C	1-Pentene 	-2.68	-2.01
+CCCC#C	1-Pentyne	-1.64	-1.446
+CC(O)c1ccccc1	1-Phenylethanol	-0.92	-1.919
+CCCO	1-Propanol	0.62	-0.334
+CCCCCCCCCCCCCCO	1-Tetradecanol	-5.84	-4.231
+Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl 	"2,2',3,3',4,4',5,5',6,6'-PCB"	-11.6	-9.589
+Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl	"2,2',3,3',4,4',5,5'-PCB"	-9.16	-8.468
+Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl 	"2,2',3,3',4,4'-PCB"	-8.01	-7.192
+Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl 	"2,2',3,3',5,5',6,6'-PCB"	-9.15	-8.304
+Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl 	"2,2',3,3',5,6-PCB"	-8.6	-7.185
+Clc1cccc(c1Cl)c2cccc(Cl)c2Cl	"2,2',3,3'-PCB"	-7.28	-6.079
+Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl	"2,2',3,4,4',5',6-PCB"	-7.92	-7.898
+Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl	"2,2',3,4,5,5',6-PCB"	-8.94	-7.898
+Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl	"2,2',3,4,5,5'-PCB"	-7.68	-7.343
+Clc1cc(Cl)c(cc1Cl)c2cccc(Cl)c2Cl 	"2,2',3,4,5-PCB"	-7.21	-6.709
+Clc1ccc(c(Cl)c1)c2c(Cl)ccc(Cl)c2Cl 	"2,2',3,4,6-PCB"	-7.43	-6.627
+Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl 	"2,2',3,5,5',6-PCB"	-7.42	-7.261
+Clc1ccc(Cl)c(c1)c2cccc(Cl)c2Cl 	"2,2',3,5'-PCB"	-6.47	-6.155
+CC(C)C(C)(C)C	"2,2,3-Trimethylbutane"	-4.36	-2.922
+Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl 	"2,2',4,4',5,5'-PCB"	-8.56	-7.343
+Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl 	"2,2',4,4',6,6'-PCB"	-8.71	-7.179
+Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl 	"2,2',4,5'-PCB"	-6.57	-6.23
+Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl	"2,2,4,6,6'-PCB"	-7.32	-6.545
+CC(C)CC(C)(C)C	"2,2,4-Trimethylpentane"	-4.74	-3.276
+CC(C)CCC(C)(C)C	"2,2,5-Trimethylhexane"	-5.05	-3.631
+Clc1cccc(Cl)c1c2c(Cl)cccc2Cl 	"2,2',6,6'-PCB"	-7.39	-5.915
+CCC(C)(C)CO	"2,2-Dimethyl-1-butanol"	-1.04	-1.365
+CCC(C)(C)C	"2,2-Dimethylbutane"	-3.55	-2.584
+CCCC(C)(C)C	"2,2-Dimethylpentane"	-4.36	-2.938
+CCCC(C)(C)CO	"2,2-Dimethylpentanol"	-1.52	-1.719
+CC(C)(C)CO	"2,2-Dimethylpropanol"	-0.4	-1.011
+Clc1ccccc1c2ccccc2Cl 	"2,2'-PCB"	-5.27	-4.984
+Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl 	"2,3,3',4,4',5-PCB"	-7.82	-7.425
+Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl 	"2,3,3',4,4'6-PCB"	-7.66	-7.746
+Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl 	"2,3',4,4',5-PCB"	-7.39	-7.343
+Clc1ccc(c(Cl)c1)c2ccc(Cl)c(Cl)c2Cl 	"2,3',4,4'-PCB"	-7.8	-6.709
+Clc2c(Cl)c(Cl)c(c1ccccc1)c(Cl)c2Cl 	"2,3,4,5,6-PCB"	-7.92	-6.785
+Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2	"2,3',4',5-PCB"	-7.25	-6.312
+Oc1cc(Cl)c(Cl)c(Cl)c1Cl	"2,3,4,5-Tetrachlorophenol"	-3.15	-4.335
+Oc1c(Cl)cc(Cl)c(Cl)c1Cl	"2,3,4,6-Tetrachlorophenol"	-3.1	-4.203
+Clc1ccc(cc1)c2cccc(Cl)c2Cl 	"2',3,4-PCB"	-6.29	-5.686
+Clc1ccc(cc1)c2cccc(Cl)c2Cl 	"2,3,4'-PCB"	-6.26	-5.686
+Oc1ccc(Cl)c(Cl)c1Cl	"2,3,4-Trichlorophenol"	-2.67	-3.705
+CC(C)C(C)C(C)C	"2,3,4-Trimethylpentane"	-4.8	-3.276
+Oc1c(Cl)c(Cl)cc(Cl)c1Cl	"2,3,5,6-Tetrachlorophenol"	-3.37	-4.203
+Clc1cccc(c1)c2cc(Cl)ccc2Cl 	"2,3',5-PCB"	-6.01	-5.762
+Oc1cc(Cl)cc(Cl)c1Cl	"2,3,5-Trichlorophenol"	-2.67	-3.78
+Oc1c(Cl)ccc(Cl)c1Cl	"2,3,6-Trichlorophenol"	-2.64	-3.572
+O=N(=O)c1c(Cl)c(Cl)ccc1	"2,3-Dichloronitrobenzene"	-3.48	-3.322
+Oc1cccc(Cl)c1Cl	"2,3-Dichlorophenol"	-1.3	-3.144
+CC(=C)C(=C)C	"2,3-Dimethyl-1,3-Butadiene"	-2.4	-2.052
+CC(C)C(C)C	"2,3-Dimethylbutane"	-3.65	-2.584
+Cc1cc2ccccc2cc1C	"2,3-Dimethylnaphthalene"	-4.72	-4.116
+CCC(C)C(C)C	"2,3-Dimethylpentane"	-4.28	-2.938
+Cc1cccnc1C	"2,3-Dimethylpyridine"	0.38	-2.067
+Clc1ccc(cc1)c2cc(Cl)ccc2Cl 	"2,4,5-PCB"	-6.27	-5.762
+Clc1ccc(cc1)c2cc(Cl)ccc2Cl 	"2,4',5-PCB"	-6.25	-5.762
+Oc1cc(Cl)c(Cl)cc1Cl	"2,4,5-Trichlorophenol "	-2.21	-3.78
+Clc1ccc(cc1)c2c(Cl)cccc2Cl 	"2,4,6-PCB"	-6.14	-5.604
+Oc1c(Cl)cc(Cl)cc1Cl	"2,4,6-Trichlorophenol"	-2.34	-3.648
+Cc1cc(C)c(O)c(C)c1	"2,4,6-Trimethylphenol"	-2.05	-2.941
+Cc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O	"2,4,6-Trinitrotoluene"	-3.22	-2.606
+Oc1ccc(Cl)cc1Cl	"2,4-Dichlorophenol "	-1.55	-3.22
+CC(C)CC(C)(C)O	"2,4-Dimethyl-2-pentanol "	-0.92	-1.647
+CC(C)C(O)C(C)C	"2,4-Dimethyl-3-pentanol"	-1.22	-1.647
+CC(C)C(=O)C(C)C	"2,4-Dimethyl-3-pentanone"	-1.3	-1.752
+CC(C)CC(C)C	"2,4-Dimethylpentane"	-4.26	-2.938
+Cc1ccc(O)c(C)c1	"2,4-Dimethylphenol"	-1.19	-2.621
+Cc1ccnc(C)c1	"2,4-Dimethylpyridine"	0.38	-2.098
+Cc1ccc(cc1N(=O)=O)N(=O)=O	"2,4-Dinitrotoluene"	-2.82	-2.604
+Clc1ccc(cc1)c2ccccc2Cl 	"2,4'-PCB"	-5.28	-5.142
+Clc1ccc(cc1)c2ccccc2Cl 	"2,4-PCB"	-5.25	-5.142
+Oc1c(Cl)cccc1Cl	"2,6-Dichlorophenol"	-1.79	-3.012
+Cc1ccc2cc(C)ccc2c1	"2,6-Dimethylnaphthalene "	-4.89	-4.147
+Cc1cccc(C)c1O	"2,6-Dimethylphenol"	-1.29	-2.589
+Cc1cccc(C)n1	"2,6-Dimethylpyridine"	0.45	-2.098
+Cc1c(cccc1N(=O)=O)N(=O)=O	"2,6-Dinitrotoluene"	-3	-2.553
+Clc1cccc(Cl)c1c2ccccc2 	"2,6-PCB"	-5.21	-4.984
+c2c(C)cc1nc(C)ccc1c2 	"2,7-dimethylquinoline"	-1.94	-3.342
+Nc3ccc2cc1ccccc1cc2c3 	2-aminoanthracene	-5.17	-3.789
+c1c(Br)ccc2ccccc12 	2-bromonaphthalene	-4.4	-4.434
+Brc1ccc2ccccc2c1	2-Bromonapthalene	-4.4	-4.434
+CC(C)Br	2-Bromopropane	-1.59	-1.949
+Cc1ccccc1Br	2-Bromotoluene	-2.23	-3.667
+CCC(=O)C	2-Butanone	0.52	-0.491
+CC=CC=O	2-butenal	0.32	-0.604
+CCCCOCCO	2-Butoxyethanol	-0.42	-0.775
+CCC(C)(C)Cl	2-Chloro-2-methylbutane	-2.51	-2.278
+COc1ccccc1Cl	2-Chloroanisole	-2.46	-2.912
+Clc1ccccc1c2ccccc2	2-Chlorobiphenyl	-4.54	-4.528
+CCC(C)Cl	2-Chlorobutane	-1.96	-1.94
+Clc1ccc2ccccc2c1	2-Chloronapthalene	-4.14	-4.063
+Oc1ccccc1Cl	2-Chlorophenol	-1.06	-2.553
+CC(C)Cl	2-Chloropropane	-1.41	-1.585
+Cc1ccccc1Cl	2-Chlorotoluene	-3.52	-3.297
+NC(N)=NC#N 	2-cyanoguanidine	-0.31	0.361
+CCCCCCCCC(=O)C	2-Decanone	-3.3	-2.617
+CCc1ccccn1	2-Ethyl pyridine	0.51	-2.051
+CCC(CC)CO	2-Ethyl-1-butanol	-1.17	-1.381
+CCCCC(CC)CO	2-Ethyl-1-hexanol	-2.11	-2.089
+CCCC=C(CC)C=O	2-Ethyl-2-hexanal	-2.46	-2.081
+CCC(CC)C=O	2-Ethylbutanal	-1.52	-1.523
+CCCCC(CC)C=O	2-Ethylhexanal	-2.13	-2.232
+CCc1ccc2ccccc2c1	2-Ethylnaphthalene	-4.29	-4.1
+CCc1ccccc1C	2-Ethyltoluene	-3.21	-3.296
+CCCCCC(C)O	2-Heptanol 	-1.55	-1.678
+CCCCCC(=O)C	2-Heptanone	-1.45	-1.554
+CCCCC(C)O	2-Hexanol	-0.89	-1.324
+CCCCC(=O)C	2-Hexanone	-0.8	-1.2
+Oc2ncc1nccnc1n2	2-hydroxypteridine	-1.947	-1.404
+Oc1ccccn1	2-Hydroxypyridine	1.02	-1.655
+CC(C)I	2-Iodopropane	-2.09	-2.486
+CC(C)c1ccccc1C	2-Isopropyltoluene	-3.76	-3.585
+COc2ncc1nccnc1n2	2-methoxypteridine	-1.11	-1.589
+CC=C(C)C	2-Methy-2-Butene	-2.56	-1.994
+CC(=C)C=C	"2-Methyl-1,3-Butadiene "	-2.03	-1.714
+CCC(=C)C	2-Methyl-1-Butene	-2.73	-1.994
+CCCC(=C)C	2-Methyl-1-Pentene	-3.03	-2.348
+CCCCCC(C)(C)O	2-Methyl-2-heptanol	-1.72	-2.017
+CCCCC(C)(C)O	2-Methyl-2-hexanol	-1.08	-1.663
+CCCC(C)(C)O	2-Methyl-2-pentanol	-0.49	-1.308
+CCC(O)C(C)C	2-Methyl-3-pentanol	-0.7	-1.308
+Cc1ccc2cc3ccccc3cc2c1	2-Methylanthracene	-6.96	-4.87
+CCC(C)(C)O	2-Methylbutan-2-ol	0.15	-0.954
+CCC(C)C	2-Methylbutane	-3.18	-2.245
+CCC(C)CO	2-Methylbutanol	-0.47	-1.027
+CCCCCC(C)C	2-Methylheptane	-5.08	-3.308
+Cc1ccc2ccccc2c1	2-Methylnapthalene	-3.77	-3.802
+CCCC(C)C	2-Methylpentane	-3.74	-2.6
+CCCC(C)CO	2-Methylpentanol	-1.11	-1.381
+Cc1ccc2c(ccc3ccccc32)c1	2-Methylphenanthrene	-5.84	-4.87
+Cc1ccccc1O	2-Methylphenol	-0.62	-2.281
+CC(C)CO	2-Methylpropan-1-ol	0.1	-0.672
+CC(C)C	2-Methylpropane	-2.55	-1.891
+CC(=C)C	2-Methylpropene	-2.33	-1.573
+Cc2ncc1nccnc1n2	2-methylpteridine	-0.12	-1.24
+CC1CCCO1	2-Methyltetrahydrofurane	0.11	-1.034
+Oc1ccc2ccccc2c1	2-Napthol	-2.28	-3.08
+CC(C)N(=O)=O	2-Nitropropane	-0.62	-0.743
+CCCCCCCC(C)O	2-Nonanol	-2.74	-2.387
+CCCCCCCC(=O)C	2-Nonanone	-2.58	-2.263
+CCCCCCC(C)O	2-Octanol	-2.09	-2.033
+CCCCCCC(=O)C	2-Octanone	-2.05	-1.909
+CCCC(C)O	2-Pentanol	-0.29	-0.97
+CCCC(=O)C	2-Pentanone	-0.19	-0.846
+OCCOc1ccccc1	2-Phenoxyethanol	-0.7	-1.761
+CC(C)O	2-Propanol	0.43	-0.261
+O=C1CCCN1	2-pyrrolidone	1.07	0.243
+CCCCCCCCCC(C)O	2-Undecanol	-2.94	-3.096
+CC(C)(C)CCO	"3,3-Dimethyl-1-butanol"	-0.5	-1.365
+CC(O)C(C)(C)C	"3,3-Dimethyl-2-butanol"	-0.62	-1.292
+CC(=O)C(C)(C)C	"3,3-Dimethyl-2-butanone"	-0.72	-1.25
+CCC(C)(C)CC	"3,3-Dimethylpentane"	-4.23	-2.938
+O=N(=O)c1cc(Cl)c(Cl)cc1	"3,4-Dichloronitrobenzene"	-3.2	-3.448
+Oc1ccc(Cl)c(Cl)c1	"3,4-Dichlorophenol"	-1.25	-3.352
+Cc1ccc(O)cc1C	"3,4-Dimethylphenol"	-1.38	-2.621
+Cc1ccncc1C	"3,4-Dimethylpyridine"	0.36	-2.067
+Clc1ccc(cc1Cl)c2ccccc2 	"3,4-PCB"	-6.39	-5.223
+Oc1cc(Cl)cc(Cl)c1	"3,5-Dichlorophenol"	-1.34	-3.428
+Cc1cc(C)cc(O)c1	"3,5-Dimethylphenol"	-1.4	-2.652
+Cc1cncc(C)c1	"3,5-Dimethylpyridine"	0.38	-2.098
+O=C1N(COC(=O)CCC)C(=O)C(N1)(c2ccccc2)c3ccccc3	3-Butanoyloxymethylphenytoin	-5.071	-3.469
+COc1cccc(Cl)c1	3-Chloroanisole	-2.78	-3.057
+c1c(Cl)cccc1c2ccccc2	3-Chlorobiphenyl	-4.88	-4.685
+Oc1cccc(Cl)c1	3-Chlorophenol	-0.7	-2.761
+ClCCC#N 	3-chloropropionitrile	-0.29	-0.522
+O=C1N(COC(=O)C)C(=O)C(N1)(c2ccccc2)c3ccccc3	3-Ethanoyloxymethylphenytoin	-4.47	-2.723
+CCC(O)(CC)CC	3-Ethyl-3-pentanol	-0.85	-1.663
+CCCCC(O)CC	3-Heptanol 	-1.47	-1.678
+O=C1N(COC(=O)CCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3	3-Heptanoyloxymethylphenytoin	-6.301	-4.496
+CCCC(O)CC	3-Hexanol	-0.8	-1.324
+CCCC(=O)CC	3-Hexanone	-0.83	-1.266
+O=C1N(COC(=O)CCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3	3-Hexanoyloxymethylphenyltoin	-5.886	-4.153
+CCC#CCC	3-Hexyne	-1.99	-1.933
+CC(C)C=C	3-Methyl-1-Butene	-2.73	-1.994
+CC(C)C(C)O	3-Methyl-2-butanol	-0.18	-0.954
+CC(C)C(=O)C	3-Methyl-2-butanone	-0.12	-0.912
+CCC(C)CCO	3-Methyl-2-pentanol	-0.72	-1.381
+CCC(C)CCO	3-Methyl-2-pentanol	-0.71	-1.308
+CCC(C)C(=O)C	3-Methyl-2-pentanone	-0.67	-1.266
+CCCCC(C)(O)CC	3-Methyl-3-heptanol	-1.6	-2.017
+CCCC(C)(O)CC	3-Methyl-3-hexanol	-0.98	-1.663
+CCC(C)(O)CC	3-Methyl-3-pentanol	-0.36	-1.308
+CC(C)CCO	3-Methylbutan-1-ol	-0.51	-1.027
+c1cc(C)cc2c1c3cc4cccc5CCc(c45)c3cc2	3-Methylcholanthrene	-7.92	-6.311
+CCCCC(C)CC	3-Methylheptane	-5.16	-3.308
+Cc1c[nH]c2ccccc12 	3-methylindole	-2.42	-2.981
+CCC(C)CC	3-Methylpentane	-3.68	-2.6
+Cc1cccc(O)c1	3-Methylphenol	-0.68	-2.313
+CCCCCC(O)CC	3-Octanol	-1.98	-2.033
+O=C1N(COC(=O)CCCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3	3-Octanoyloxymethylphenytoin	-6.523	-4.84
+CCC(O)CC	3-Pentanol	-0.24	-0.97
+CCC(=O)CC	3-Pentanone	-0.28	-0.912
+O=C1N(COC(=O)CCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3	3-Pentanoyloxymethylphenytoin	-4.678	-3.81
+O=C1N(COC(=O)CC)C(=O)C(N1)(c2ccccc2)c3ccccc3	3-Propanoyloxymethylphenytoin	-4.907	-3.128
+Clc1ccc(cc1)c2ccc(Cl)cc2 	"4,4'-PCB"	-6.56	-5.299
+Oc1ccc(Br)cc1	4-Bromophenol	-1.09	-3.132
+Cc1ccc(Br)cc1	4-Bromotoluene	-3.19	-3.667
+COc1ccc(Cl)cc1	4-Chloroanisole	-2.78	-3.057
+Oc1ccc(Cl)cc1	4-Chlorophenol 	-0.7	-2.761
+Cc1ccc(Cl)cc1	4-Chlorotoluene	-3.08	-3.297
+CCc1ccc(C)cc1	4-Ethyltoluene	-3.11	-3.328
+CCCC(O)CCC	4-Heptanol	-1.4	-1.678
+CCCC(=O)CCC	4-Heptanone	-1.3	-1.62
+c1(O)cc(O)ccc1CCCCCC	4-hexylresorcinol	-2.59	-3.493
+Oc1ccncc1	4-hydroxypyridine	1.02	-1.655
+CC(C)c1ccc(C)cc1	4-Isopropyltoluene	-3.77	-3.617
+COc1ncnc2nccnc12 	4-methoxypteridine	-1.11	-1.589
+CC(C)CC(C)O	4-Methyl-2-pentanol	-0.8	-1.308
+CC(C)CC(=O)C	4-Methyl-2-pentanone	-0.74	-1.184
+Cc1ccc(cc1)c2ccccc2	4-Methylbiphenyl	-4.62	-4.424
+CC(C)CCCO	4-Methylpentanol	-1.14	-1.381
+Cc1ncnc2nccnc12	4-methylpteridine	-0.466	-1.24
+CC(=O)Nc1ccc(cc1)N(=O)=O	4-Nitroacetanilide	-2.692	-2.219
+OCCCC=C	4-Pentene-1-ol	-0.15	-0.791
+O=C1NC(=O)NC(=O)C1(CC)CC=C(C)C	5-(3-Methyl-2-butenyl)-5-ethylbarbital	-2.253	-2.126
+O=C1NC(=O)NC(=O)C1(C(C)C)CC=C(C)C	5-(3-Methyl-2-butenyl)-5-isoPrbarbital	-2.593	-2.465
+O=C1NC(=O)NC(=O)C1(CC=C)CC=C	"5,5-Diallylbarbital"	-2.077	-1.471
+O=C1NC(=O)NC(=O)C1(C(C)C)C(C)C	"5,5-Diisopropylbarbital"	-2.766	-1.942
+O=C1NC(=O)NC(=O)C1(C)C	"5,5-Dimethylbarbituric acid"	-1.742	-0.556
+Oc2ccc1CCCCc1c2 	"5,6,7,8-tetrahydro-2-naphthol"	-1.99	-3.086
+Cc1c(C)c2c3ccccc3ccc2c4ccccc14	"5,6-Dimethylchrysene"	-7.01	-6.265
+O=C1NC(=O)NC(=O)C1(CC)CC=C	5-Allyl-5-ethylbarbital	-1.614	-1.368
+O=C1NC(=O)NC(=O)C1(C(C)C)CC=C	5-Allyl-5-isopropylbarbital	-1.708	-1.706
+O=C1NC(=O)NC(=O)C1(C)CC=C	5-Allyl-5-methylbarbital	-1.16	-1.013
+O=C1NC(=O)NC(=O)C1(CC=C)c1ccccc1	5-Allyl-5-phenylbarbital	-2.369	-2.36
+O=C1NC(=O)NC(=O)C1(CC)CCC(C)C	5-Ethyl-5-(3-methylbutyl)barbital	-2.658	-2.312
+O=C1NC(=O)NC(=O)C1(CC)C(C)C	5-Ethyl-5-isopropylbarbituric acid	-2.148	-1.603
+O=C1NC(=O)NC(=O)C1(CC)c1ccccc1	5-Ethyl-5-phenylbarbital	-2.322	-2.272
+Fc1c[nH]c(=O)[nH]c1=O 	5-fluorouracil	-1.077	-0.792
+Oc1cccc2ncccc12 	5-hydroxyquinoline	-2.54	-2.725
+O=C1NC(=O)NC(=O)C1(C)CC	5-Methyl-5-ethylbarbituric acid	-1.228	-0.911
+c1cccc2c3c(C)cc4ccccc4c3ccc12	5-Methylchrysene	-6.59	-5.931
+Nc1c(C)c[nH]c(=O)n1 	5-methylcytosine	-1.458	-0.257
+CCCCC(=O)CCCC	5-Nonanone	-2.58	-2.329
+Nc3cc2c1ccccc1ccc2c4ccccc34 	6-aminochrysene	-6.2	-4.849
+Oc2ccc1ncccc1c2 	6-hydroxyquinoline	-2.16	-2.725
+COc2cnc1ncncc1n2	6-methoxypteridine	-1.139	-1.589
+Cc1cc2c3ccccc3ccc2c4ccccc14	6-Methylchrysene	-6.57	-5.931
+Cc1c2ccccc2c(C)c3ccc4ccccc4c13	"7,12-Dimethylbenz(a)anthracene"	-7.02	-6.297
+COc2cnc1cncnc1n2	7-methoxypteridine	-0.91	-1.589
+Cc2cnc1cncnc1n2	7-methylpteridine	-0.854	-1.24
+Oc1cccc2cccnc12 	8-quinolinol	-2.42	-2.725
+Cc1c2ccccc2c(C)c3ccccc13	"9,10-Dimethylanthracene"	-6.57	-5.228
+c3ccc2c(O)c1ccccc1cc2c3 	9-anthrol	-4.73	-4.148
+Cc1c2ccccc2cc3ccccc13	9-Methylanthracene	-5.89	-4.87
+COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1	Abate	-6.237	-6.678
+C1Cc2cccc3cccc1c23	Acenapthene	-4.63	-3.792
+C1=Cc2cccc3cccc1c23	Acenapthylene	-3.96	-3.682
+COP(=O)(NC(C)=O)SC 	Acephate	0.54	-0.416
+CC(=O)N	Acetamide	1.58	0.494
+CC(=O)Nc1ccccc1	Acetanilide	-1.33	-1.857
+CC(=O)Nc1nnc(s1)S(N)(=O)=O 	acetazolamide	-2.36	-0.793
+CC#N	Acetonitrile	0.26	0.152
+CC(=O)c1ccccc1	Acetophenone	-1.28	-2.078
+CC(=O)N(S(=O)c1ccc(N)cc1)c2onc(C)c2C 	acetyl sulfisoxazole	-3.59	-2.024
+c3ccc2nc1ccccc1cc2c3	Acridine	-3.67	-3.846
+C=CC=O	Acrolein	0.57	-0.184
+C=CC#N	Acrylonitrile	0.15	-0.354
+Nc1ncnc2nc[nH]c12 	adenine	-2.12	-1.255
+CC34CC(=O)C1C(CCC2=CC(=O)CCC12C)C3CCC4(=O) 	adrenosterone	-3.48	-2.99
+CCc1cccc(CC)c1N(COC)C(=O)CCl 	alachlor	-3.26	-3.319
+CC13CCC(=O)C=C1CCC4C2CCC(C(=O)CO)C2(CC(O)C34)C=O 	aldosterone	-3.85	-3.066
+ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl	Aldrin	-6.307	-5.511
+NC(=O)NC1NC(=O)NC1=O 	allantoin	-1.6	0.652
+C=CCS(=O)SCC=C	allicin	-0.83	-2.045
+O=c1[nH]cnc2[nH]ncc12 	allopurinol	-2.266	-0.84
+O=C1NC(=O)C(=O)C(=O)N1 	alloxan	-1.25	0.436
+C1(=O)NC(=O)NC(=O)C1(O)C2(O)C(=O)NC(=O)NC2(=O)	alloxantin	-1.99	0.919
+CN(C)c1nc(nc(n1)N(C)C)N(C)C	Altretamine	-3.364	-2.492
+CCNc1nc(NC(C)C)nc(SC)n1	Ametryn	-3.04	-3.43
+OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O 	Amigdalin	-0.77	-0.974
+CNC(=O)Oc1ccc(N(C)C)c(C)c1	Aminocarb	-2.36	-2.677
+CN(C)c2c(C)n(C)n(c1ccccc1)c2=O 	aminopyrine	-0.364	-2.129
+Nc1nccs1 	aminothiazole	-0.36	-1.226
+CN(C=Nc1ccc(C)cc1C)C=Nc2ccc(C)cc2C	Amitraz	-5.47	-5.533
+Nc1nc[nH]n1	Amitrole	0.522	-0.674
+CCC1(CCC(C)C)C(=O)NC(=O)NC1=O	Amobarbital	-2.468	-2.312
+Cc2c(N)c(=O)n(c1ccccc1)n2C	ampyrone	-0.624	-1.192
+COc1ccc(cc1)C(O)(C2CC2)c3cncnc3 	Ancymidol	-2.596	-2.181
+CC34CCC1C(CCC2=CC(=O)CCC12C)C3CCC4=O	Androstenedione	-3.69	-3.393
+CC12CCC(O)CC1CCC3C2CCC4(C)C3CCC4=O	Androsterone	-4.402	-3.882
+COc1ccc(C=CC)cc1	Anethole	-3.13	-3.254
+Nc1ccccc1	Aniline 	-0.41	-1.632
+COP(=S)(OC)SCC(=O)N(C(C)C)c1ccc(Cl)cc1	Anilofos	-4.432	-5.106
+COc1ccccc1	Anisole	-1.85	-2.368
+c1ccc2cc3ccccc3cc2c1	Anthracene	-6.35	-4.518
+O=C1c2ccccc2C(=O)c3ccccc13	Anthraquinone	-5.19	-3.34
+Cc1cc(=O)n(c2ccccc2)n1C	Antipyrene	0.715	-1.733
+CCCC1C(=O)N3N(C1=O)c2cc(C)ccc2N=C3N(C)C 	Apazone	-3.538	-2.9
+OC4=C(C1CCC(CC1)c2ccc(Cl)cc2)C(=O)c3ccccc3C4=O	"Atovaquone(0,430mg/ml) - neutral"	-5.931	-6.269
+CCNc1nc(NC(C)C)nc(OC)n1	Atratone	-2.084	-3.185
+CCNc1nc(Cl)nc(NC(C)C)n1	Atrazine	-3.85	-3.069
+CCN(CC)C(=O)CSc1ccc(Cl)nn1	Azintamide	-1.716	-2.231
+N(=Nc1ccccc1)c2ccccc2	Azobenzene	-4.45	-4.034
+CNC(=O)C=C(C)OP(=O)(OC)OC	Azodrin	0.651	-0.949
+ClCC#CCOC(=O)Nc1cccc(Cl)c1	Barban	-4.37	-4.16
+O=C1NC(=O)NC(=O)C1(CC)CC	Barbital	-2.4	-1.265
+NS(=O)(=O)c3cc2c(NC(Cc1ccccc1)NS2(=O)=O)cc3C(F)(F)F	Bendroflumethiazide	-3.59	-3.741
+CCCCN(CC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O	Benfluralin	-5.53	-5.205
+CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2CC(C)(C)Oc21)C(C)C	Benfuracarb	-4.71	-5.133
+c1c(NC(=O)c2ccccc2(I))cccc1	benodanil	-4.21	-4.245
+CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12	Benomyl	-4.883	-2.902
+CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1	Bensulide	-4.2	-4.99
+O=Cc1ccccc1	Benzaldehyde	-1.19	-1.999
+NC(=O)c1ccccc1	Benzamide	-0.96	-1.501
+c1ccccc1	Benzene 	-1.64	-2.418
+c1ccccc1C(O)c2ccccc2	benzhydrol	-2.55	-3.033
+O=C(Cn1ccnc1N(=O)=O)NCc2ccccc2	Benznidazole	-2.81	-2.321
+C1c2ccccc2c3ccc4ccccc4c13	Benzo(a)fluorene	-6.68	-5.189
+c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45	Benzo(a)pyrene	-8.699	-6.007
+c1ccc2c(c1)c3cccc4c3c2cc5ccccc54	Benzo(b)fluoranthene	-8.23	-6.007
+C1c2ccccc2c3cc4ccccc4cc13	Benzo(b)fluorene	-8.04	-5.189
+c1ccc2c(c1)c3cccc4ccc5cccc2c5c43	Benzo(e)pyrene	-7.8	-6.007
+c1ccc2c3c(ccc2c1)c4cccc5cccc3c45	Benzo(j)fluoranthene	-8	-6.007
+c1ccc2cc3c4cccc5cccc(c3cc2c1)c45	Benzo(k)fluoranthene	-8.49	-6.007
+c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56	Benzo[ghi]perylene	-9.018	-6.446
+CCOC(=O)c1ccc(N)cc1	Benzocaine	-2.616	-2.383
+OC(C(=O)c1ccccc1)c2ccccc2	benzoin	-2.85	-3.148
+N#Cc1ccccc1	Benzonitrile	-1	-2.03
+O=C(c1ccccc1)c2ccccc2	Benzophenone	-3.12	-3.612
+c2ccc1scnc1c2 	benzothiazole	-1.5	-2.733
+c2ccc1[nH]nnc1c2	Benzotriazole	-0.78	-2.21
+c2ccc1ocnc1c2	Benzoxazole	-1.16	-2.214
+ClCc1ccccc1	Benzylchloride	-2.39	-2.887
+FC(F)(F)c1ccccc1	Benzyltrifluoride	-2.51	-3.099
+NC(=O)NCc1ccccc1 	benzylurea	-0.95	-1.509
+CCCCC(=O)OC3(C(C)CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)C(=O)CO	Betamethasone-17-valerate	-4.71	-5.062
+C(Cc1ccccc1)c2ccccc2	Bibenzyl 	-4.62	-4.301
+c1ccc(cc1)c2ccccc2	Biphenyl	-4.345	-4.079
+c2ccc1nc(ccc1c2)c4ccc3ccccc3n4 	biquinoline	-5.4	-4.903
+CC1(C)C2CCC1(C)C(O)C2	borneol	-2.32	-2.423
+CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O 	Bromacil	-2.523	-3.419
+OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 	bromadiolone	-4.445	-7.877
+Brc1ccccc1	Bromobenzene	-2.55	-3.345
+ClCBr	Bromochloromethane	-0.89	-1.519
+BrC(Cl)Cl	Bromodichloromethane	-1.54	-2.176
+CCBr	Bromoethane	-1.09	-1.529
+CBr	Bromomethane	-0.79	-1.109
+COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl	Bromophos	-6.09	-5.604
+CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c2ccc(Br)cc2 	bromopropylate	-4.93	-5.833
+Oc1c(Br)cc(C#N)cc1Br 	bromoxynil	-3.33	-3.793
+c1ccccc1n2ncc(N)c(Br)c2(=O)	brompyrazone	-3.127	-3.005
+CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C 	bupirimate	-4.16	-3.493
+O=C1NC(=O)NC(=O)C1(CC)C(C)CC	Butabarbital	-2.39	-1.958
+c1(C(C)(C)C)cc(C(C)(C)C)cc(OC(=O)NC)c1	butacarb	-4.24	-4.642
+CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC 	butachlor	-4.19	-4.347
+CCC(C)C1(CC(Br)=C)C(=O)NC(=O)NC1=O 	butallylonal	-2.647	-2.766
+CCCCOC(=O)c1ccc(N)cc1	Butamben	-3.082	-3.039
+CCC(C)O	Butan-2-ol	0.47	-0.616
+CCCC	Butane	-2.57	-1.907
+CCCCS	Butanethiol 	-2.18	-1.676
+CCCCC1(CC)C(=O)NC(=O)NC1=O	Butethal	-1.661	-1.974
+CN1CC(O)N(C1=O)c2nnc(s2)C(C)(C)C	Buthidazole	-1.877	-2.398
+CC(C#C)N(C)C(=O)Nc1ccc(Cl)cc1	Buturon	-3.9	-3.199
+CCCCOC=O	Butyl acetate	-1.37	-1.111
+CCSC(=O)N(CC(C)C)CC(C)C	Butylate	-3.68	-3.453
+CCCCc1ccccc1	Butylbenzene	-4.06	-3.585
+CCCC=O	Butyraldehyde	-0.01	-0.749
+Cn1cnc2n(C)c(=O)n(C)c(=O)c12	Caffeine	-0.876	-1.498
+CC1(C)C2CCC1(C)C(=O)C2	Camphor	-1.96	-2.158
+CCCCCC=O	Caproaldehyde	-1.3	-1.457
+ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O 	captafol	-5.4	-4.365
+O=C(Nc1ccccc1)Nc2ccccc2	Carbanilide	-3.15	-3.611
+CNC(=O)Oc1cccc2ccccc12	Carbaryl	-3.224	-3.087
+c1ccc2c(c1)[nH]c3ccccc32	Carbazole	-5.27	-3.836
+c1c(NC(=O)OC(C)C(=O)NCC)cccc1	Carbetamide	-1.83	-2.29
+CNC(=O)Oc1cccc2CC(C)(C)Oc12	Carbofuran	-2.8	-3.05
+CCOP(=S)(OCC)SCSc1ccc(Cl)cc1	Carbophenthion	-5.736	-5.828
+CC1=C(SCCO1)C(=O)Nc2ccccc2	Carboxin	-3.14	-2.927
+CCC(Br)(CC)C(=O)NC(N)=O	Carbromal	-2.68	-2.198
+c1(O)c(C)ccc(C(C)C)c1	Carvacrol	-2.08	-3.224
+CC(=C)C1CC=C(C)C(=O)C1	Carvone	-2.06	-2.042
+OCC(O)C2OC1OC(OC1C2O)C(Cl)(Cl)Cl 	chloralose	-1.84	-1.887
+OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)N(=O)=O	Chloramphenicol	-2.111	-2.613
+CCN(CC)c1nc(Cl)nc(n1)N(CC)CC	Chlorazine	-4.411	-3.663
+CON(C)C(=O)Nc1ccc(Br)c(Cl)c1	Chlorbromuron	-3.924	-3.938
+CC(OC(=O)Nc1cccc(Cl)c1)C#C	Chlorbufam	-2.617	-3.629
+ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl	Chlordane	-6.86	-6.039
+ClC2=C(Cl)C3(Cl)C1C=CCC1C2(Cl)C3(Cl)Cl 	Chlordene	-5.64	-5.152
+CN(C)C=Nc1ccc(Cl)cc1C	chlordimeform	-2.86	-3.164
+CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c2nc(Cl)cc(OC)n2	Chlorimuron-ethyl (ph 7)	-4.576	-3.719
+NC(=O)CCl 	chloroacetamide	-0.02	-0.106
+ClCC#N	Chloroacetonitrile	-0.092	-0.448
+Clc1ccccc1	Chlorobenzene	-2.38	-2.975
+ClC(Br)Br	Chlorodibromethane	-1.9	-2.54
+ClCC	Chloroethane	-1.06	-1.165
+ClC=C	Chloroethylene	-1.75	-1.188
+CC(C)OC(=O)Nc1cccc(Cl)c1	Chloropham	-3.38	-3.544
+ClC(Cl)(Cl)N(=O)=O	Chloropicrin	-2	-1.866
+c1ccc(Cl)cc1C(c2ccc(Cl)cc2)(O)C(=O)OC(C)C	chloropropylate	-4.53	-5.093
+c1(C#N)c(Cl)c(C#N)c(Cl)c(Cl)c(Cl)1	Chlorothalonil	-5.64	-3.995
+NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl 	chlorothiazide	-3.05	-1.752
+CN(C)C(=O)Nc1ccc(C)c(Cl)c1	Chlorotoluron	-3.46	-3.048
+CN(C)C(=O)Nc2ccc(Oc1ccc(Cl)cc1)cc2	Chloroxuron	-4.89	-4.477
+CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl 	chlorpyrifos	-5.67	-4.972
+c2(Cl)c(Cl)c(Cl)c1nccnc1c2(Cl) 	chlorquinox	-5.43	-4.438
+NS(=O)(=O)c1cc(ccc1Cl)C2(O)NC(=O)c3ccccc23	Chlorthalidone	-3.451	-2.564
+CN(C)C(=O)Nc1ccc(C)c(Cl)c1	Chlortoluron	-3.483	-3.048
+Clc2ccc1oc(=O)[nH]c1c2	Chlorzoxazone	-2.831	-2.679
+C1Cc2c3c1cccc3cc4c2ccc5ccccc54	Cholanthrene	-7.85	-5.942
+c1ccc2c(c1)ccc3c4ccccc4ccc23	Chrysene	-8.057	-5.568
+Cl\C=C/Cl	"cis 1,2-Dichloroethylene"	-1.3	-1.561
+C/C1CCCCC1\C	"cis-1,2-Dimethylcyclohexane"	-4.3	-3.305
+CC/C=C\C	cis-2-Pentene	-2.54	-2.076
+CC(C)=CCCC(C)=CC(=O)	citral	-2.06	-2.579
+CC1(C)CON(Cc2ccccc2Cl)C1=O	Clomazone	-2.338	-3.077
+Clc1ccccc1C2=NCC(=O)Nc3ccc(cc23)N(=O)=O	Clonazepam	-3.499	-3.707
+c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67	Coronene	-9.332	-6.885
+CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO	Corticosterone	-3.24	-3.454
+CC12CC(=O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO	Cortisone	-3.11	-2.893
+CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)CCC1(C)C2C(=O)CC34C 	cortisone acetate	-4.21	-3.426
+CC(=O)CC(c1ccc(Cl)cc1)c2c(O)c3ccccc3oc2=O	Coumachlor	-5.839	-4.554
+CCOP(=S)(OCC)Oc2ccc1oc(=O)c(Cl)c(C)c1c2	Coumaphos	-5.382	-5.04
+O=c2c(C3CCCc4ccccc43)c(O)c1ccccc1o2 	Coumatetralyl	-2.84	-5.194
+CCNc1nc(Cl)nc(NC(C)(C)C#N)n1	Cyanazine	-3.15	-2.49
+CCSC(=O)N(CC)C1CCCCC1 	cycloate	-3.4	-3.35
+CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2 	cyclobarbital	-2.17	-2.421
+O=C2NC(=O)C1(CCC1)C(=O)N2	Cyclobutyl-5-spirobarbituric acid	-1.655	-0.527
+C1CCCCCC1	Cycloheptane	-3.51	-2.916
+OC1CCCCCC1	Cycloheptanol	-0.88	-1.7
+C1CCC=CCC1	Cycloheptene	-3.18	-2.599
+O=C2NC(=O)C1(CCCCCC1)C(=O)N2 	Cycloheptyl-5-spirobarbituric acid	-3.168	-1.844
+C1CCCCC1	Cyclohexane	-3.1	-2.477
+OC1CCCCC1	Cyclohexanol 	-0.44	-1.261
+O=C1CCCCC1	Cyclohexanone	-0.6	-0.996
+C1CCC=CC1	Cyclohexene	-2.59	-2.16
+CC1CC(C)C(=O)C(C1)C(O)CC2CC(=O)NC(=O)C2 	cycloheximide	-1.13	-1.532
+O=C2NC(=O)C1(CCCCC1)C(=O)N2	Cyclohexyl-5-spirobarbituric acid	-3.06	-1.405
+C1CCCCCCC1	Cyclooctane	-4.15	-3.355
+OC1CCCCCCC1	Cyclooctanol	-1.29	-2.14
+O=C2NC(=O)C1(CCCCCCC1)C(=O)N2	Cyclooctyl-5-spirobarbituric acid	-2.982	-2.284
+C1CCCC1	Cyclopentane 	-2.64	-2.038
+C1CC=CC1	Cyclopentene 	-2.1	-1.72
+O=C2NC(=O)C1(CCCC1)C(=O)N2	Cyclopentyl-5-spirobarbituric acid	-2.349	-0.966
+O=C2NC(=O)C1(CC1)C(=O)N2 	Cyclopropyl-5-spirobarbituric acid	-1.886	-0.088
+CN(C)C(=O)NC1CCCCCCC1	Cycluron	-2.218	-2.629
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2	Cyfluthrin	-7.337	-6.84
+CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2	Cyhalothrin	-8.176	-6.905
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2	Cypermethrin	-8.017	-6.775
+Nc1cc[nH]c(=O)n1 	cytosine	-1.155	0.051
+CC23Cc1cnoc1C=C2CCC4C3CCC5(C)C4CCC5(O)C#C	Danazol	-5.507	-4.557
+Nc1ccc(cc1)S(=O)(=O)c2ccc(N)cc2	Dapsone	-3.094	-2.464
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2	DDD	-7.2	-6.008
+ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2	DDE	-6.9	-6.553
+Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl	DDT	-7.15	-6.638
+C1CCC2CCCCC2C1	Decalin	-5.19	-3.715
+CCCCSP(=O)(SCCCC)SCCCC	DEF	-5.14	-4.074
+CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2	Deltamethrin	-8.402	-7.44
+CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO	Deoxycorticosterone	-3.45	-3.939
+CC(=O)OCC(=O)C3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C 	deoxycorticosterone acetate	-4.63	-4.472
+CCOC(=O)Nc2cccc(OC(=O)Nc1ccccc1)c2 	Desmedipham	-4.632	-4.182
+CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO	Dexamethasone	-3.59	-3.4
+CC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O)C(=O)COC(C)=O 	dexamethasone acetate	-4.9	-3.933
+CC2(C)C1CCC(C)(C1)C2=O	D-fenchone	-1.85	-2.158
+CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC	Di(2-ethylhexyl)-phthalate	-6.96	-7.117
+CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O	Dialifor	-6.34	-5.026
+CCOP(=S)(OCC)SC(CCl)N2C(=O)c1ccccc1C2=O	Dialifos	-6.34	-5.026
+CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl	Diallate	-4.286	-3.827
+CN2C(=O)CN=C(c1ccccc1)c3cc(Cl)ccc23	Diazepam	-3.754	-4.05
+CCOP(=S)(OCC)Oc1cc(C)nc(n1)C(C)C	Diazinon	-3.64	-3.989
+o1c2ccccc2c3ccccc13	Dibenzofurane	-4.6	-4.201
+c1ccc2c(c1)sc3ccccc23	Dibenzothiophene	-4.38	-4.597
+BrCBr	Dibromomethane	-1.17	-1.883
+CCCCOCCCC	Dibutyl ether 	-1.85	-2.135
+CCCCOC(=O)CCCCCCCCC(=O)OCCCC	dibutyl sebacate	-3.896	-4.726
+CCCCOC(=O)c1ccccc1C(=O)OCCCC 	dibutylphthalate	-4.4	-4.378
+COP(=S)(OC)Oc1ccc(cc1Cl)N(=O)=O	Dicapthon	-4.31	-4.188
+ClCCl	Dichloromethane	-0.63	-1.156
+Oc1ccc(Cl)cc1Cc2cc(Cl)ccc2O	Dichlorophen	-3.953	-4.924
+OC(c1ccc(Cl)cc1)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl	Dicofol	-5.666	-6.268
+ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl	Dieldrin	-6.29	-4.533
+CC=C(C(=CC)c1ccc(O)cc1)c2ccc(O)cc2	Dienestrol	-4.95	-4.775
+ClC1=C(Cl)C(Cl)(C(=C1Cl)Cl)C2(Cl)C(=C(Cl)C(=C2Cl)Cl)Cl	Dienochlor	-7.278	-7.848
+CCOCC	Diethyl ether 	-0.09	-0.718
+CCOC(=O)c1ccccc1C(=O)OCC	Diethyl phthalate 	-2.35	-3.016
+CCSCC	Diethyl sulfide	-1.34	-1.598
+CCSSCC	Diethyldisulfide	-2.42	-2.364
+CCC(=C(CC)c1ccc(O)cc1)c2ccc(O)cc2 	diethylstilbestrol	-4.07	-5.074
+COc2ccc(Oc1ccc(NC(=O)N(C)C)cc1)cc2	Difenoxuron	-4.16	-3.928
+Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2	difluron	-6.02	-4.692
+CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CCC5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C 	Digitoxin	-5.293	-6.114
+CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CC(O)C5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C 	"Digoxin (L1=41,8mg/mL, L2=68,2mg/mL, Z=40,1mg/mL)"	-4.081	-5.312
+CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC	Dihexyl phthalate	-6.144	-5.758
+ICI	Diiodomethane	-2.34	-2.958
+c1(C(=O)OCCCCCC(C)(C))c(C(=O)OCCCCCC(C)(C))cccc1	diisooctyl phthalate	-6.637	-7.117
+CC(C)OC(C)C	Diisopropyl ether 	-1.1	-1.281
+CC(C)SC(C)C	Diisopropylsulfide	-2.24	-2.162
+CCN(CC)C(=O)C(=CCOP(=O)(OC)OC)Cl	Dimecron	0.523	-2.426
+CN(C)C(=O)Nc1ccc(c(Cl)c1)n2nc(oc2=O)C(C)(C)C	Dimefuron	-4.328	-3.831
+CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1 	dimetan	-0.85	-2.304
+CCCCc1c(C)nc(nc1O)N(C)C 	dimethirimol	-2.24	-3.57
+COCOC	Dimethoxymethane	0.48	0.092
+COC(=O)c1ccccc1C(=O)OC	Dimethyl phthalate	-1.66	-2.347
+CSC	Dimethyl sulfide	-0.45	-0.758
+CSSC	Dimethyldisulfide	-1.44	-1.524
+CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O	Dinitramine	-5.47	-4.479
+CCC(C)c1cc(cc(N(=O)=O)c1O)N(=O)=O 	Dinoseb	-3.38	-3.715
+OC1C(O)C(O)C(O)C(O)C1O	d-inositol	0.35	-0.887
+CCCSCCC	Di-n-propylsulfide	-2.58	-2.307
+CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC 	dioctyl phthalate	-5.115	-7.148
+C1C(O)CCC2(C)CC3CCC4(C)C5(C)CC6OCC(C)CC6OC5CC4C3C=C21	Diosgenin	-7.32	-5.681
+CNC(=O)Oc1ccccc1C2OCCO2	Dioxacarb	-1.57	-1.614
+CN(C)C(=O)C(c1ccccc1)c2ccccc2 	diphenamid	-2.98	-3.147
+O(c1ccccc1)c2ccccc2	Diphenyl ether 	-3.96	-4.254
+N(c1ccccc1)c2ccccc2	Diphenylamine	-3.504	-3.857
+C(c1ccccc1)c2ccccc2	Diphenylmethane	-4.08	-4.09
+CCCOCCC	Dipropyl ether	-1.62	-1.426
+CCN(CC)C(=S)SSC(=S)N(CC)CC	Disulfiram	-4.86	-3.862
+CCOP(=S)(OCC)SCCSCC	Disulfoton	-4.23	-3.975
+CCOP(=S)(OCC)N2C(=O)c1ccccc1C2=O	Ditalimfos	-3.35	-3.992
+CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1	Diuron	-3.8	-3.301
+CC1=CCC(CC1)C(C)=C	d-Limonene	-4.26	-3.429
+Cc1cc(cc(N(=O)=O)c1O)N(=O)=O	DNOC	-1.456	-2.818
+CCOc1ccc(NC(N)=O)cc1	Dulcin	-2.17	-2.167
+Cn2c(=O)n(C)c1ncn(CC(O)CO)c1c2=O	Dyphylline	-0.17	-0.847
+CCCCCCCCCCCCCCCCCCCC	Eicosane	-8.172	-7.576
+ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl	Endrin	-6.18	-4.533
+CC34CCC1C(CCC2CC(O)CCC12C)C3CCC4=O	Epiandrosterone	-4.16	-3.882
+CC45CCC2C(CCC3CC1SC1CC23C)C4CCC5O	Epitostanol	-5.41	-4.545
+CC34CCc1c(ccc2cc(O)ccc12)C3CCC4=O	Equilenin	-5.24	-3.927
+CC34CCC1C(=CCc2cc(O)ccc12)C3CCC4=O	Equilin	-5.282	-3.555
+Oc2cc(O)c1C(=O)CC(Oc1c2)c3ccc(O)c(O)c3	Eriodictyol	-3.62	-3.152
+OCC(O)C(O)CO	Erythritol	0.7	0.675
+CC12CCC3C(CCc4cc(O)ccc34)C2CCC1O	Estradiol	-5.03	-4.138
+c1(OC)ccc(CC=C)cc1	Estragole	-2.92	-3.074
+CC34CCC1C(CCc2cc(O)ccc12)C3CC(O)C4O 	estriol	-4.955	-3.858
+CC12CCC3C(CCc4cc(O)ccc34)C2CCC1=O	Estrone	-3.955	-3.872
+CCN(CC(C)=C)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O	Ethalfluralin	-6.124	-5.063
+CC	Ethane	-1.36	-1.132
+CCS	Ethanethiol	-0.6	-0.968
+CCO	Ethanol	1.1	0.02
+CC34CCC1C(CCc2cc(O)ccc12)C3CCC4(O)C#C 	Ethinyl estradiol	-4.3	-4.317
+CCSCc1ccccc1OC(=O)NC 	ethiofencarb	-2.09	-2.855
+CCOP(=S)(OCC)SCSP(=S)(OCC)OCC	Ethion	-5.54	-5.471
+CCCCc1c(C)nc(NCC)[nH]c1=O	Ethirimol	-3.028	-2.732
+CC12CCC(=O)C=C1CCC3C2CCC4(C)C3CCC4(O)C#C 	Ethisterone	-5.66	-3.858
+CCOC2Oc1ccc(OS(C)(=O)=O)cc1C2(C)C	Ethofumesate	-3.42	-3.184
+CCOC2Oc1ccc(OS(C)(=O)=O)cc1C2(C)C	ethofumesate	-3.42	-3.184
+CCOc2ccc1nc(sc1c2)S(N)(=O)=O 	Ethoxyzolamide	-3.81	-3.085
+CCOC(=O)C	Ethyl acetate	-0.04	-0.77
+CCOC(=O)c1ccccc1	Ethyl benzoate 	-2.32	-2.775
+CCCCCOC(=O)CC	Ethyl butyrate	-1.28	-2.254
+CCOC(=O)C=Cc1ccccc1	ethyl cinnamate	-3	-3.098
+CCCCCCCCCC(=O)OCC	Ethyl decanoate	-4.1	-3.671
+CCOC=O	Ethyl formate	0.15	-0.402
+CCCCCCC(=O)OCC	Ethyl heptanoate	-2.74	-2.608
+CCCCCC(=O)OCC	Ethyl hexanoate	-2.35	-2.254
+CCCCCCCCC(=O)OCC	Ethyl nonanoate	-3.8	-3.316
+CCCCCCCC(=O)OCC	Ethyl octanoate	-3.39	-2.962
+CCCOC(=O)CCC	Ethyl pentanoate	-1.75	-1.899
+CCOC(=O)CC	Ethyl propionate	-0.66	-1.191
+CCCOCC	Ethyl propyl ether	-0.66	-1.072
+CCOC=C	Ethyl vinyl ether	-0.85	-0.857
+CCc1ccccc1	Ethylbenzene	-2.77	-2.988
+CCC1CCCCC1	Ethylcyclohexane	-4.25	-3.245
+C=C	Ethylene	-0.4	-0.815
+CCOC(=O)c1ccc(N)cc1	Ethyl-p-aminobenzoate	-2.1	-2.383
+CCOC(=O)c1ccc(O)cc1	Ethyl-p-hydroxybenzoate 	-2.35	-2.761
+C#C	Ethyne	0.29	-0.252
+CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3	Etofenprox	-8.6	-6.896
+CCOC(=O)c1cncn1C(C)c2ccccc2	Etomidate	-4.735	-3.359
+COc1cc(cc(OC)c1O)C6C2C(COC2=O)C(OC4OC3COC(C)OC3C(O)C4O)c7cc5OCOc5cc67	"Etoposide (148-167,25mg/ml)"	-3.571	-3.292
+CC12CCC(CC1)C(C)(C)O2 	eucalyptol	-1.64	-2.579
+COc1cc(CC=C)ccc1O	Eugenol	-1.56	-2.675
+OC(c1ccc(Cl)cc1)(c2cncnc2)c3ccccc3Cl	Fenarimol	-4.38	-4.108
+Cc1occc1C(=O)Nc2ccccc2	Fenfuram	-3.3	-2.885
+COP(=S)(OC)Oc1ccc(N(=O)=O)c(C)c1	Fenitrothion	-4.04	-3.845
+CN(C)C(=O)SCCCCOc1ccccc1	Fenothiocarb	-3.927	-3.297
+CCOC(=O)NCCOc2ccc(Oc1ccccc1)cc2	Fenoxycarb	-4.7	-4.662
+CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C	Fenpropathrin	-6.025	-6.15
+CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O 	fensulfothion	-2.3	-3.283
+COP(=S)(OC)Oc1ccc(SC)c(C)c1	Fenthion	-4.57	-4.265
+CN(C)C(=O)Nc1ccccc1	Fenuron	-1.6	-1.847
+OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F 	fluconazole	-1.8	-2.418
+CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c3ccc(OC(F)F)cc3	Flucythrinate	-6.876	-6.878
+Nc1nc(=O)[nH]cc1F	Flucytosine	-0.972	-0.132
+CC34CC(O)C1(F)C(CCC2=CC(=O)CCC12C)C3CCC4(O)C(=O)CO 	Fludrocortisone	-3.43	-3.172
+CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO	Flumethasone	-5.613	-3.539
+CCN(Cc1c(F)cccc1Cl)c2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O	Flumetralin	-6.78	-6.584
+CN(C)C(=O)Nc1cccc(c1)C(F)(F)F	Fluometuron	-3.43	-3.065
+c1ccc2c(c1)c3cccc4cccc2c34	Fluoranthene	-6	-4.957
+C1c2ccccc2c3ccccc13	Fluorene 	-5	-4.125
+Fc1ccccc1	Fluorobenzene	-1.8	-2.514
+CC1CC2C3CCC(O)(C(=O)C)C3(C)CC(O)C2(F)C4(C)C=CC(=O)C=C14	Fluoromethalone	-4.099	-3.507
+CN(C)C(=O)Nc1cccc(c1)C(F)(F)F	Fluorometuron	-3.32	-3.065
+Cn2cc(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F	Fluridone	-4.445	-4.249
+FC(F)(F)c1cccc(c1)N2CC(CCl)C(Cl)C2=O	Flurochloridone	-4.047	-4.749
+OC(Cn1cncn1)(c2ccc(F)cc2)c3ccccc3F	Flutriafol	-3.37	-3.569
+CC(C)C(Nc1ccc(cc1Cl)C(F)(F)F)C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2	Fluvalinate	-8.003	-8.057
+CNC(=O)Oc1cccc(N=CN(C)C)c1	Formetanate	-2.34	-1.846
+COP(=S)(OC)SCC(=O)N(C)C=O	Formothion	-1.995	-2.087
+OCC1OC(O)(CO)C(O)C1O	Fructose	0.64	0.471
+c1ccoc1	Furane	-0.82	-1.837
+O=Cc1ccco1	Furfural	-0.1	-1.391
+c1c(O)C2C(=O)C3cc(O)ccC3OC2cc1(OC)	gentisin	-2.943	-1.292
+OCC(O)COC(=O)c1ccccc1Nc2ccnc3cc(Cl)ccc23	Glafenine	-4.571	-5.052
+OCC1OC(O)C(O)C(O)C1O	glucose	0.74	0.501
+CCC1(CCC(=O)NC1=O)c2ccccc2 	Glutethimide	-2.337	-2.591
+OCC(O)CO	Glycerol	1.12	0.688
+CC(=O)OCC(COC(=O)C)OC(=O)C	Glyceryl triacetate	-0.6	-1.285
+COC1=CC(=O)CC(C)C13Oc2c(Cl)c(OC)cc(OC)c2C3=O	Griseofulvin	-3.246	-3.328
+COc1ccccc1O 	Guaiacol	-1.96	-1.941
+Nc2nc1[nH]cnc1c(=O)[nH]2 	guanine	-3.583	-0.67
+FC(F)(F)C(Cl)Br 	halothane	-1.71	-2.608
+c1cc(O)c(O)c2OCC3(O)CC4=CC(=O)C(O)=CC4=C3c21	hematein	-2.7	-1.795
+ClC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl	Heptachlor	-6.317	-5.26
+CCCCCCC	Heptane	-4.53	-2.97
+ClC(=C(Cl)C(=C(Cl)Cl)Cl)Cl	"Hexachloro-1,3-butadiene"	-4.92	-4.546
+ClC(Cl)(Cl)C(Cl)(Cl)Cl	Hexachloroethane	-3.67	-4.215
+CCCCCCCCCCCCCCCCCCCCCCCCCC	hexacosane	-8.334	-9.702
+CCCCCCCCCCCCCCCC	Hexadecane	-8.4	-6.159
+Cc1c(C)c(C)c(C)c(C)c1C	Hexamethylbenzene	-5.23	-4.361
+CCCCCC	Hexane 	-3.84	-2.615
+CCC(C(CC)c1ccc(O)cc1)c2ccc(O)cc2	Hexestrol	-4.43	-4.854
+CCCCCCc1ccccc1	Hexylbenzene 	-5.21	-4.22
+O=C1CNC(=O)N1 	hydantoin	-0.4	0.603
+N(Nc1ccccc1)c2ccccc2 	hydrazobenzene	-2.92	-3.492
+c1ccccc1C(O)C(O)c2ccccc2	hydrobenzoin	-1.93	-2.645
+NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl 	hydrochlorothiazide	-2.63	-1.72
+CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO	Hydrocortisone 	-3.09	-3.159
+CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C	Hydrocortisone 21-acetate	-4.88	-3.692
+OC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl 	hydroxychlordene	-5.46	-4.156
+CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C	Hydroxyprogesterone-17a	-3.817	-3.876
+O=c1[nH]cnc2nc[nH]c12 	Hypoxanthine	-2.296	-0.656
+C1Cc2ccccc2C1	Indan	-3.04	-3.057
+CC2Cc1ccccc1N2NC(=O)c3ccc(Cl)c(c3)S(N)(=O)=O 	Indapamide	-3.586	-4.345
+c2ccc1[nH]ncc1c2 	indazole	-2.16	-2.34
+c2ccc1[nH]ccc1c2	Indole	-1.52	-2.654
+c2ccc1NCCc1c2 	indoline	-1.04	-2.195
+OCC1OC(C(O)C1O)n2cnc3c(O)ncnc23	Inosine	-1.23	-0.834
+Ic1ccccc1	Iodobenzene	-3.01	-3.8
+CCI	Iodoethane	-1.6	-2.066
+COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl	Iodofenphos	-6.62	-6.148
+CI	Iodomethane	-1	-1.646
+Oc1c(I)cc(C#N)cc1I	Ioxynil	-3.61	-4.615
+CCN(CC)c1nc(Cl)nc(NC(C)C)n1	Ipazine	-3.785	-3.497
+CCOP(=S)(OCC)Oc1nc(Cl)n(n1)C(C)C	Isazofos	-3.658	-3.76
+CC(C)COC(=O)C	Isobutyl acetate	-1.21	-1.463
+CC(C)COC=O	Isobutyl formate	-1.01	-1.095
+CC(C)Cc1ccccc1	Isobutylbenzene	-4.12	-3.57
+C1N(C(=O)NCC(C)C)C(=O)NC1	isocarbamid	-2.15	-1.508
+Cc1cc(no1)C(=O)NNCc2ccccc2	Isocarboxazid	-2.461	-2.251
+CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C	Isofenphos	-4.194	-4.538
+Nc1nc(O)nc2nc[nH]c12 	isoguanine	-3.401	-1.74
+c1nccc(C(=O)NN)c1	Isonazid	0.009	-0.717
+CC(C)CCOC(=O)C	Isopentyl acetate	-1.92	-1.817
+CC(C)CCOC=O	Isopentyl formate	-1.52	-1.449
+CC1=CC(=O)CC(C)(C)C1 	isophorone	-1.06	-2.015
+CNC(=O)Oc1ccccc1C(C)C	Isoprocarb	-2.863	-2.734
+CCCN(CCC)c1c(cc(cc1N(=O)=O)C(C)C)N(=O)=O	Isopropalin	-6.49	-5.306
+CC(C)OC(=O)C	Isopropyl acetate	-0.55	-1.191
+CC(C)OC=O	Isopropyl formate	-0.63	-0.684
+CC(C)c1ccccc1	Isopropylbenzene 	-3.27	-3.265
+CC(C)c1ccc(NC(=O)N(C)C)cc1	Isoproturon	-3.536	-2.867
+c1ccc2cnccc2c1	Isoquinoline	-1.45	-2.531
+CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1 	karbutilate	-2.93	-2.655
+CC(=O)CCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3	kebuzone	-3.27	-2.645
+ClC1(C(=O)C2(Cl)C3(Cl)C14Cl)C5(Cl)C2(Cl)C3(Cl)C(Cl)(Cl)C45Cl	Kepone	-5.259	-5.112
+COc2c1occc1c(OC)c3c(=O)cc(C)oc23 	Khellin	-3.021	-3.603
+OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O	Lactose	-0.244	1.071
+C1OC(O)C(O)C(O)C1O	L-arabinose	0.39	0.601
+O=c2[nH]c1CCCc1c(=O)n2C3CCCCC3	Lenacil	-4.594	-3.355
+CC(C)=CCCC(O)(C)C=C	linalool	-1.99	-2.399
+ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl	Lindane	-4.64	-4.009
+CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1	Linuron	-3.592	-3.581
+OC3N=C(c1ccccc1Cl)c2cc(Cl)ccc2NC3=O	Lorazepam	-3.604	-3.75
+CCC(C)C(=O)OC2CC(C)C=C3C=CC(C)C(CCC1CC(O)CC(=O)O1)C23 	Lovastatin	-6.005	-4.731
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC	Malathion	-3.37	-3.391
+CCOC(=O)CC(=O)OCC	Malonic acid diethylester	-0.82	-1.413
+OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O	Maltose	0.358	1.071
+OCC(O)C(O)C(O)C(O)CO 	mannitol	0.06	0.647
+Nc1cccc(Cl)c1	m-Chloroaniline	-1.37	-2.392
+Clc1cccc(Br)c1	m-Chlorobromobenzene	-3.21	-3.928
+Clc1cccc(I)c1	m-Chloroiodobenzene	-3.55	-4.384
+Clc1cccc(c1)N(=O)=O	m-Chloronitrobenzene 	-2.77	-2.901
+COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3	Mebendazole	-3.88	-4.118
+CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC	Mecarbam	-2.518	-3.738
+c1c(OC)c(OC)C2C(=O)OCC2c1	meconin	-1.899	-0.825
+CC(=O)C3(C)CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C	Medrogestone	-5.27	-4.593
+CN(C(=O)COc1nc2ccccc2s1)c3ccccc3	Mefenacet	-4.873	-4.504
+CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C	Mefluidide	-3.24	-3.165
+CC(=O)OC3(CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C)C(C)=O 	megestrol acetate	-5.35	-4.417
+CC2=CC(=O)c1ccccc1C2=O 	Menadione	-3.03	-2.667
+CC(C)C1CCC(C)CC1O 	menthol	-2.53	-2.782
+CC(C)C1CCC(C)CC1=O	Menthone	-2.35	-2.516
+CCCC(C)(COC(N)=O)COC(N)=O 	Meprobamate	-1.807	-1.376
+Sc2nc1ccccc1s2 	mercaptobenzothiazole	-3.18	-3.411
+COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C 	metalaxyl	-1.601	-2.87
+C	Methane	-0.9	-0.636
+CO	Methanol	1.57	0.441
+Cc1ccccc1n3c(C)nc2ccccc2c3=O	Methaqualone	-2.925	-3.881
+CCC1(CC)C(=O)NC(=O)N(C)C1=O 	metharbital	-2.23	-1.658
+Cn2c(=O)on(c1ccc(Cl)c(Cl)c1)c2=O	Methazole	-2.82	-3.601
+COc1ccccc1OCC(O)COC(N)=O	Methocarbamol	-0.985	-1.428
+COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C	Methoprene	-5.19	-4.795
+COCCCNc1nc(NC(C)C)nc(SC)n1	Methoproptryne	-2.928	-3.259
+COc2c1occc1cc3ccc(=O)oc23 	Methoxsalen	-3.664	-3.25
+COc1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl	Methoxychlor	-6.89	-5.538
+COC(=O)C	Methyl acetate	0.46	-0.416
+COC(=O)C=C	Methyl acrylate	-0.22	-0.878
+COC(=O)c1ccccc1	Methyl benzoate 	-1.85	-2.462
+CCCCOC	Methyl butyl ether 	-0.99	-1.072
+CCCOC(=O)CC	Methyl butyrate	-0.82	-1.545
+CCCCCCCCCC(=O)OC	Methyl decanoate	-4.69	-3.316
+COC=O	Methyl formate	0.58	-0.048
+COC(=O)c1cc(O)c(O)c(O)c1 	methyl gallate	-1.24	-1.913
+CCCCCC(=O)OC	Methyl hexanoate	-1.87	-1.899
+CNN	Methyl hydrazine	1.34	0.543
+CCCCCCCCCCCC(=O)OC	methyl laurate	-4.69	-4.025
+COC(=O)c1cccnc1 	methyl nicotinate	-0.46	-1.621
+CCCCCCCCC(=O)OC	Methyl nonanoate	-3.38	-2.962
+CCCCCCCC(=O)OC	Methyl octanoate	-3.17	-2.608
+CCCC(=O)OCC	Methyl pentanoate	-1.36	-1.545
+CCC(=O)OC	Methyl propionate	-0.14	-0.836
+CCCOC	Methyl propyl ether 	-0.39	-0.718
+COC(C)(C)C	Methyl t-butyl ether 	-0.24	-0.984
+CC1CCCCC1	Methylcyclohexane 	-3.85	-2.891
+CC1CCCC1	Methylcyclopentane	-3.3	-2.452
+CN(C(=O)NC(C)(C)c1ccccc1)c2ccccc2	Methyldymron	-3.35	-3.863
+COC(=O)c1ccc(O)cc1	Methylparaben	-1.827	-2.441
+CC(=O)OC3(C)CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C 	methyltestosterone acetate	-5.284	-4.863
+Cc1cc(=O)[nH]c(=S)[nH]1	methylthiouracil	-2.436	-0.547
+CCc1cccc(C)c1N(C(C)COC)C(=O)CCl 	Metolachlor	-2.73	-3.431
+CC2Nc1cc(Cl)c(cc1C(=O)N2c3ccccc3C)S(N)(=O)=O 	Metolazone	-3.78	-3.777
+c1ccccc1(OC(=O)NC)	Metolcarb	-1.803	-1.947
+COc1ccc(NC(=O)N(C)C)cc1Cl	Metoxuron	-2.564	-2.683
+Cc1ncc(N(=O)=O)n1CCO 	Metranidazole	-1.26	-0.859
+CSc1nnc(c(=O)n1N)C(C)(C)C	Metribuzin	-2.253	-2.324
+Cc1ncc(N(=O)=O)n1CCO	Metronidazole	-1.22	-0.859
+Fc1cccc(Br)c1	m-Fluorobromobenzene	-2.67	-3.467
+Nc1cc(nc(N)n1=O)N2CCCCC2 	Minoxidil	-1.989	-1.809
+ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl	Mirex	-6.8	-6.155
+Cc1cccc(N)c1	m-Methylaniline	-0.85	-1.954
+Nc1cccc(c1)N(=O)=O	m-Nitroaniline	-2.19	-1.936
+Oc1cccc(c1)N(=O)=O	m-Nitrophenol	-1.01	-2.318
+Cc1cccc(c1)N(=O)=O	m-Nitrotoluene	-2.44	-2.64
+CON(C)C(=O)Nc1ccc(Cl)cc1	Monolinuron	-2.57	-2.948
+COC(=O)c1ccccc1OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O	Monotropitoside	-0.742	-1.493
+CN(C)C(=O)Nc1ccc(Cl)cc1	Monuron	-2.89	-2.671
+Oc1ccc(c(O)c1)c3oc2cc(O)cc(O)c2c(=O)c3O 	Morin	-3.083	-2.731
+Cc1cccc(C)c1	m-Xylene 	-2.82	-3.035
+CCN(CC)c1ccccc1	"N,N-Diethylaniline"	-3.03	-3.16
+CN(C)C(=O)C	"N,N-Dimethylacetamide"	1.11	0.123
+CN(C)c1ccccc1	"N,N-Dimethylaniline"	-1.92	-2.542
+COP(=O)(OC)OC(Br)C(Cl)(Cl)Br	Naled	-2.28	-3.548
+CCN(CC)C(=O)C(C)Oc1cccc2ccccc12 	Napropamide	-3.57	-4.088
+c1ccc2cc3cc4ccccc4cc3cc2c1	Napthacene	-8.6	-5.568
+c1ccc2ccccc2c1	Napthalene	-3.6	-3.468
+CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1	Neburon	-4.77	-4.157
+CC(C)=CCC/C(C)=C\CO	Nerol	-2.46	-2.603
+CCNc1ccccc1	N-Ethylaniline	-1.7	-2.389
+Cc3ccnc4N(C1CC1)c2ncccc2C(=O)Nc34 	nevirapine	-3.19	-3.397
+Oc1ccc(Cl)cc1C(=O)Nc2ccc(cc2Cl)N(=O)=O	Niclosamide	-4.7	-5.032
+NC(=O)c1cccnc1 	nicotinamide	0.61	-0.964
+COC(=O)C1=C(C)NC(=C(C1c2ccccc2N(=O)=O)C(=O)OC)C 	nifedipine	-4.76	-4.248
+ON=Cc1ccc(o1)N(=O)=O 	nifuroxime	-2.19	-1.843
+CN2C(=O)CN=C(c1ccccc1)c3cc(ccc23)N(=O)=O	Nimetazepam	-3.796	-3.557
+O=C1NCCN1c2ncc(s2)N(=O)=O	Niridazole	-3.22	-1.948
+CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O	Nitramine	-3.561	-4.479
+Clc1cccc(n1)C(Cl)(Cl)Cl	Nitrapyrin	-3.76	-3.833
+O=C3CN=C(c1ccccc1)c2cc(ccc2N3)N(=O)=O	Nitrazepam	-3.796	-3.473
+O=N(=O)c1ccccc1	Nitrobenzene	-1.8	-2.288
+CCN(=O)=O	Nitroethane	-0.22	-0.462
+Clc2ccc(Oc1ccc(cc1)N(=O)=O)c(Cl)c2	Nitrofen	-5.46	-5.361
+O=C2CN(N=Cc1ccc(o1)N(=O)=O)C(=O)N2 	nitrofurantoin	-3.38	-1.243
+O=N(=O)OCC(CON(=O)=O)ON(=O)=O 	nitroglycerin	-2.22	-2.029
+CN(=O)=O	Nitromethane	0.26	-0.042
+CNc1ccccc1	N-Methylaniline 	-1.28	-2.097
+CCCCCCCCC	Nonane	-5.88	-3.678
+OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 	norbormide	-3.931	-4.238
+CN(C)C(=O)NC1CC2CC1C3CCCC23	Norea	-3.171	-2.47
+CC(=O)OC3(CCC4C2CCC1=CC(=O)CCC1C2CCC34C)C#C	norethindrone acetate	-4.8	-4.241
+CC34CCC1C(CCC2=CC(=O)CCC12O)C3CCC4(O)C#C	Norethisterone	-4.57	-2.669
+CNc2cnn(c1cccc(c1)C(F)(F)F)c(=O)c2Cl	norflurazon	-4.046	-4.029
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl 	"O,P'-DDD"	-6.51	-6.008
+Nc1ccccc1O	o-Aminophenol	-0.72	-1.465
+Nc1ccccc1Cl	o-Chloroaniline	-1.52	-2.392
+Clc1ccccc1Br	o-Chlorobromobenzene	-3.19	-3.84
+Clc1ccccc1I	o-Chloroiodobenzene	-3.54	-4.384
+Clc1ccccc1N(=O)=O	o-Chloronitrobenzene	-2.55	-2.775
+CCCCCCCC	Octane	-5.24	-3.324
+CCOC(=O)N	O-Ethyl carbamate	0.85	-0.218
+Fc1ccccc1Br	o-Fluorobromobenzene	-2.7	-3.467
+NC(=O)c1ccccc1O	o-Hydroxybenzamide	-1.82	-1.942
+COc1ccccc1O	o-Methoxyphenol	-1.96	-1.941
+Nc1ccccc1N(=O)=O	o-Nitroaniline	-1.96	-2.277
+COc1ccccc1N(=O)=O	o-Nitroanisole	-1.96	-2.346
+Oc1ccccc1N(=O)=O	o-Nitrophenol	-1.74	-2.318
+Cc1ccccc1N(=O)=O	o-Nitrotoluene	-2.33	-2.589
+CCCN(CCC)c1c(cc(cc1N(=O)=O)S(N)(=O)=O)N(=O)=O	oryzalin	-5.16	-3.784
+c1cc2ccc(OC)c(CC=C(C)(C))c2oc1=O 	osthole	-4.314	-4.076
+Cc1ccccc1N	o-Toluidine	-2.21	-1.922
+CC(C)Oc1cc(c(Cl)cc1Cl)n2nc(oc2=O)C(C)(C)C	Oxadiazon	-5.696	-5.265
+CNC(=O)ON=C(SC)C(=O)N(C)C	Oxamyl	0.106	-0.908
+OC3N=C(c1ccccc1)c2cc(Cl)ccc2NC3=O 	Oxazepam	-3.952	-3.517
+CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1	Oxycarboxin	-2.281	-2.169
+Cc1ccccc1C	o-Xylene 	-2.8	-3.004
+CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3 	oxyphenbutazone	-3.73	-3.739
+Nc1ccc(cc1)c2ccc(N)cc2	"p,p'-Biphenyldiamine "	-2.7	-2.613
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 	"P,P'-DDD"	-7.2	-6.008
+ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2	"P,P'-DDE"	-6.9	-6.553
+Nc1ccc(O)cc1	p-Aminophenol	-0.8	-1.231
+O=C1NC(=O)C(=O)N1 	parabanic acid	-0.4	1.091
+CCOP(=S)(OCC)Oc1ccc(cc1)N(=O)=O	Parathion	-4.66	-3.949
+Nc1ccc(cc1)c2ccc(N)cc2	p-benzidine	-2.7	-2.613
+CC(=O)Nc1ccc(Br)cc1	p-Bromoacetanilide	-3.083	-3.012
+Brc1ccc(I)cc1	p-Bromoiodobenzene	-4.56	-4.754
+CC(=O)Nc1ccc(Cl)cc1	p-Chloroacetanilide	-2.843	-2.642
+Nc1ccc(Cl)cc1	p-Chloroaniline	-1.66	-2.392
+Clc1ccc(Br)cc1	p-Chlorobromobenzene	-3.63	-3.928
+Clc1ccc(I)cc1	p-Chloroiodobenzene	-4.03	-4.384
+Clc1ccc(cc1)N(=O)=O	p-Chloronitrobenzene	-2.92	-2.901
+Cc1ccc(O)cc1	p-Cresol	-0.73	-2.313
+CCCCN(CC)C(=O)SCCC	Pebulate	-3.53	-3.131
+Clc1ccc(CN(C2CCCC2)C(=O)Nc3ccccc3)cc1	Pencycuron	-5.915	-5.126
+Clc1cc(Cl)c(Cl)c(Cl)c1Cl	Pentachlorobenzene	-5.65	-5.168
+ClC(Cl)C(Cl)(Cl)Cl	Pentachloroethane	-2.6	-3.382
+Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl	Pentachlorophenol	-4.28	-4.835
+Cc1cc(C)c(C)c(C)c1C	Pentamethylbenzene	-4	-3.993
+CCCCC	Pentane	-3.18	-2.261
+O=C1NC(=O)NC(=O)C1(CC)C(C)CCC	Pentobarbital	-2.39	-2.312
+CCCCCOC(=O)C	Pentyl acetate	-1.89	-1.833
+CCCCC(=O)OCC	Pentyl propanoate	-2.25	-1.899
+CCCCCc1ccccc1	Pentylbenzene	-4.64	-3.899
+CCCCCC1CCCC1	Pentylcyclopentane	-6.08	-3.869
+Cc1cc(ccc1NS(=O)(=O)C(F)(F)F)S(=O)(=O)c2ccccc2	Perfluidone	-3.8	-4.945
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2	Permethrin	-6.291	-7.129
+c1cc2cccc3c4cccc5cccc(c(c1)c23)c54	Perylene	-8.804	-6.007
+CC(=O)Nc1ccc(F)cc1	p-Fluoroacetanilide	-1.78	-2.181
+CCOc1ccc(NC(=O)C)cc1	Phenacetin	-2.35	-2.342
+c1ccc2c(c1)ccc3ccccc32	Phenanthrene	-5.26	-4.518
+c1ccc2c(c1)cnc3ccccc23 	phenanthridine	-2.78	-3.713
+CCOc1ccccc1	Phenetole	-2.33	-2.66
+COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1	Phenmedipham	-4.805	-4.229
+CCC1(C(=O)NC(=O)NC1=O)c2ccccc2 	phenobarbital	-2.322	-2.272
+c1ccccc1O	Phenol	0	-1.991
+Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4 	phenolphthalein	-2.9	-4.59
+CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C 	phenothrin	-5.24	-6.763
+CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 	phenylbutazone	-3.81	-4.076
+NNc1ccccc1	Phenylhydrazine	0.07	-1.866
+OCc1ccccc1	Phenylmethanol	-0.4	-1.699
+NC(=S)Nc1ccccc1	Phenylthiourea	-1.77	-1.701
+O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3	Phenytoin	-4.097	-3.057
+CCOP(=S)(OCC)SCSCC	Phorate	-4.11	-3.747
+CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc12	Phosalone	-5.233	-5.024
+CCOP(=S)(OCC)ON=C(C#N)c1ccccc1	Phoxim	-4.862	-4.557
+c1cC2C(=O)NC(=O)C2cc1	phthalamide	-2.932	-0.636
+O=C1NC(=O)c2ccccc12 	phthalimide	-2.61	-1.882
+N#Cc1ccccc1C#N	Phthalonitrile	-2.38	-1.717
+CC(=O)Nc1ccc(O)cc1	p-Hydroxyacetanilide	-1.03	-1.495
+Oc1ccc(C=O)cc1	p-Hydroxybenzaldehyde 	-0.96	-2.003
+c1ccc2c(c1)ccc3c2ccc4c5ccccc5ccc43	Picene	-7.87	-6.618
+O=C(C=CC=Cc2ccc1OCOc1c2)N3CCCCC3	Piperine	-3.46	-3.659
+O=Cc2ccc1OCOc1c2 	piperonal	-1.63	-2.033
+CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C	Piperophos	-4.15	-4.637
+CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C	Pirimicarb	-1.95	-2.34
+CN2C(=C(O)c1ccccc1S2(=O)=O)C(=O)Nc3ccccn3 	piroxicam	-4.16	-3.473
+COc1ccc(C=O)cc1	p-Methoxybenzaldehyde	-1.49	-2.252
+Cc1ccc(N)cc1	p-Methylaniline 	-1.21	-1.954
+Nc1ccc(cc1)N(=O)=O	p-Nitroaniline	-2.37	-1.936
+COc1ccc(cc1)N(=O)=O	p-Nitroanisole	-2.41	-2.522
+Oc1ccc(cc1)N(=O)=O	p-Nitrophenol	-0.74	-2.318
+Cc1ccc(cc1)N(=O)=O	p-Nitrotoluene	-2.49	-2.64
+Oc1ccc(cc1)c2ccccc2	p-Phenylphenol	-3.48	-3.701
+CC34CCC1C(CC=C2CC(O)CCC12C)C3CCC4=O	Prasterone	-4.12	-3.564
+CC12CC(O)C3C(CCC4=CC(=O)C=CC34C)C2CCC1(O)C(=O)CO	Prednisolone	-3.18	-2.974
+CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)C=CC1(C)C2C(O)CC34C 	prednisolone acetate	-4.37	-3.507
+CC(=O)C3CCC4C2CC=C1CC(O)CCC1(C)C2CCC34C 	pregnenolone	-4.65	-4.342
+CCC1(C(=O)NCNC1=O)c2ccccc2	Primidone	-2.64	-1.897
+CCC1(C(C)C)C(=O)NC(=O)NC1=O 	probarbital	-2.21	-1.603
+CC12CC2(C)C(=O)N(C1=O)c3cc(Cl)cc(Cl)c3	Procymidone	-4.8	-3.464
+CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	Progesterone	-4.42	-4.17
+COc1nc(NC(C)C)nc(NC(C)C)n1	Prometon	-2.478	-3.448
+CSc1nc(NC(C)C)nc(NC(C)C)n1	Prometryn	-4.1	-3.693
+CC(C)N(C(=O)CCl)c1ccccc1 	propachlor	-2.48	-3.018
+CCC	Propane	-1.94	-1.553
+CCC(=O)Nc1ccc(Cl)c(Cl)c1	Propanil	-3	-3.644
+CC(C)Nc1nc(Cl)nc(NC(C)C)n1	Propazine	-4.43	-3.329
+CCNP(=S)(OC)OC(=CC(=O)OC(C)C)C	Propetamphos	-3.408	-2.826
+CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl	Propiconazole	-3.493	-4.603
+CCC=O	Propionaldehyde	0.58	-0.394
+CCC#N	Propionitrile	0.28	-0.269
+CNC(=O)Oc1ccccc1OC(C)C	Propoxur	-2.05	-2.409
+CCCOC(=O)C	Propyl acetate	-0.72	-1.125
+CCCC(=O)OC	Propyl butyrate	-1.92	-1.191
+CCCOC=O	Propyl formate	-0.49	-0.757
+CCCCC(=O)OC	Propyl propanoate	-1.34	-1.545
+CCCc1ccccc1	Propylbenzene 	-3.37	-3.281
+CCCC1CCCC1	Propylcyclopentane	-4.74	-3.16
+CC=C	Propylene	-1.08	-1.235
+CCCOC(C)C	Propylisopropylether	-1.34	-1.354
+CC#C	Propyne	-0.41	-0.672
+CC(C)(C)c1ccc(O)cc1	p-t-Butylphenol	-2.41	-3.192
+c2cnc1ncncc1n2	Pteridine	0.02	-0.906
+c1ccc(cc1)c2ccc(cc2)c3ccccc3	p-terphenyl	-7.11	-5.741
+Cc1ccc(cc1)S(=O)(=O)N	p-Toluenesulfonamide 	-1.74	-1.815
+Cc1ccc(C)cc1	p-Xylene 	-2.77	-3.035
+CC1=C(CCCO1)C(=O)Nc2ccccc2 	pyracarbolid	-2.56	-2.83
+NC(=O)c1cnccn1	Pyrazinamide	-0.667	-0.674
+Nc2cnn(c1ccccc1)c(=O)c2Cl	Pyrazon	-2.878	-2.603
+c1cc2ccc3cccc4ccc(c1)c2c34	Pyrene	-6.176	-4.957
+c1ccnnc1	Pyridazine	1.1	-0.619
+c1ccncc1	Pyridine	0.76	-1.481
+c1cncnc1	Pyrimidine	1.1	-0.884
+CN(C)C(=O)Oc1cc(C)nn1c2ccccc2	Pyrolan	-2.09	-3.141
+CCC2NC(=O)c1cc(c(Cl)cc1N2)S(N)(=O)=O	Quinethazone	-3.29	-2.184
+c1ccc2ncccc2c1	Quinoline	-1.3	-2.663
+ClC(Cl)CC(=O)NC2=C(Cl)C(=O)c1ccccc1C2=O	Quinonamid	-5.03	-3.988
+Clc1c(Cl)c(Cl)c(N(=O)=O)c(Cl)c1Cl	Quintozene	-5.82	-5.098
+OCC1OC(CO)(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C1O	Raffinose	-0.41	0.496
+CCC1(C(=O)NC(=O)NC1=O)C2=CCC3CCC2C3	Reposal	-2.696	-2.781
+CCN2c1ncccc1N(C)C(=O)c3cccnc23 	Reverse Transcriptase inhibitor 1	-2.62	-2.794
+C1SC(=S)NC1(=O)	rhodanine	-1.77	-0.396
+Cc3cc2nc1c(=O)[nH]c(=O)nc1n(CC(O)C(O)C(O)CO)c2cc3C	Riboflavin	-3.685	-1.865
+CCCOC(=O)c1ccc(N)cc1	Risocaine	-2.452	-2.709
+COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl	Ronnel	-5.72	-5.247
+COc5cc4OCC3Oc2c1CC(Oc1ccc2C(=O)C3c4cc5OC)C(C)=C 	Rotenone	-4.42	-5.246
+CC(C)NC(=O)N1CC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2	Rovral	-4.376	-4.004
+O2c1ccccc1N(C)C(=O)c3cccnc23 	RTI 10	-3.672	-2.771
+O2c1ccc(N)cc1N(C)C(=O)c3cc(C)ccc23 	RTI 11	-3.928	-3.125
+CCN2c1nc(Cl)ccc1N(C)C(=O)c3cccnc23 	RTI 12	-4.114	-3.446
+CCN2c1nc(C)cc(C(F)(F)F)c1NC(=O)c3cccnc23 	RTI 13	-4.207	-4.45
+CCN2c1nc(C)cc(C)c1NC(=O)c3cccnc23 	RTI 15	-4.554	-3.891
+CCN2c1ncccc1N(C)C(=S)c3cccnc23 	RTI 16	-4.634	-3.411
+CCN2c1ccccc1N(C)C(=S)c3cccnc23 	RTI 17	-4.706	-4.227
+CCN2c1ccccc1N(C)C(=O)c3ccccc23 	RTI 19	-4.749	-4.007
+CCN2c1ncccc1N(CC)C(=O)c3cccnc23 	RTI 2	-2.86	-3.125
+C2c1ccccc1N(CCF)C(=O)c3ccccc23 	RTI 20	-4.799	-3.663
+CCN2c1cc(N(C)C)cc(C)c1NC(=O)c3cccnc23 	RTI 22	-4.871	-4.408
+CCN2c1cc(OC)cc(C)c1NC(=O)c3cccnc23 	RTI 23	-5.153	-4.228
+CCN2c1cc(Cl)ccc1NC(=O)c3cccnc23 	RTI 24	-5.36	-4.423
+O2c1cc(C)ccc1N(C)C(=O)c3cc(N)cnc23 	RTI 3	-3.043	-3.049
+CCN2c1ccccc1N(C)C(=O)c3cccnc23 	RTI 5	-3.324	-3.471
+CCN2c1nc(N(C)(CCO))ccc1NC(=O)c3cccnc23 	RTI 6	-3.36	-3.335
+C2c1ccccc1N(CCF)C(=O)c3ccccc23 	RTI 7	-3.535	-3.663
+O2c1ccccc1N(CC)C(=O)c3ccccc23 	RTI 9	-3.68	-3.784
+OCC2OC(Oc1ccccc1CO)C(O)C(O)C2O	Salicin	-0.85	-0.975
+NC(=O)c1ccccc1O	Salicylamide	-1.836	-1.942
+c1ccccc1NC(=O)c2c(O)cccc2	salicylanilide	-3.59	-3.782
+CC3C2CCC1(C)C=CC(=O)C(=C1C2OC3=O)C	Santonin	-3.09	-2.43
+O=C1NC(=O)NC(=O)C1(C(C)CCC)CC=C	Secobarbital	-2.356	-2.415
+CC1CCCCC1NC(=O)Nc2ccccc2	Siduron	-4.11	-3.779
+CCNc1nc(Cl)nc(NCC)n1 	simazine	-4.55	-2.811
+CSc1nc(nc(n1)N(C)C)N(C)C	Simetryn	-2.676	-2.689
+OCC(O)C(O)C(O)C(O)CO	Sorbitol	1.09	0.647
+CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O	"Sparsomycin (3,8mg/ml)"	-1.981	-1.57
+CC(=O)SC4CC1=CC(=O)CCC1(C)C5CCC2(C)C(CCC23CCC(=O)O3)C45	Spironolactone	-4.173	-3.842
+CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC 	stadacaine	-3.84	-5.128
+CC34CCC1C(CCC2CC(=O)CCC12C)C3CCC4O 	Stanolone	-4.743	-3.882
+COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl	Stirofos	-4.522	-4.32
+C=Cc1ccccc1	Styrene	-2.82	-2.85
+C1OC1c2ccccc2 	styrene oxide	-1.6	-1.826
+O=C1CCC(=O)N1	Succinimide	0.3	0.282
+OCC2OC(OC1(CO)OC(CO)C(O)C1O)C(O)C(O)C2O 	Sucrose	0.79	0.31
+NC(=N)NS(=O)(=O)c1ccc(N)cc1 	sulfaguanidine	-1.99	-0.706
+CCN(CC)C(=S)SCC(Cl)=C	Sulfallate	-3.39	-3.254
+Nc1ccc(cc1)S(N)(=O)=O	Sulfanilamide	-1.34	-0.954
+CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O	Talbutal	-2.016	-2.06
+CC(C)(C)c1ccccc1	t-Butylbenzene 	-3.66	-3.554
+C/C=C/C=O	t-Crotonaldehyde	0.32	-0.604
+Fc1cccc(F)c1C(=O)NC(=O)Nc2cc(Cl)c(F)c(Cl)c2F 	TEFLUBENZURON	-7.28	-5.462
+Cc1[nH]c(=O)n(c(=O)c1Cl)C(C)(C)C	Terbacil	-2.484	-3.033
+CCOP(=S)(OCC)SCSC(C)(C)C	Terbufos	-4.755	-4.367
+CCNc1nc(NC(C)(C)C)nc(OC)n1	Terbumeton	-3.239	-3.505
+CCNc1nc(NC(C)(C)C)nc(SC)n1	Terbutryn	-4	-3.75
+CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1O	Testosterone	-4.02	-3.659
+CC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C 	testosterone acetate	-5.184	-4.449
+CCC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C 	testosterone propionate	-5.37	-4.87
+BrC(Br)(Br)Br	Tetrabromomethane	-3.14	-4.063
+ClC(=C(Cl)Cl)Cl	Tetrachloroethylene	-2.54	-3.063
+COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl 	tetrachloroguaiacol	-4.02	-4.299
+ClC(Cl)(Cl)Cl	Tetrachloromethane	-2.31	-2.607
+CCCCCCCCCCCCCC	Tetradecane	-7.96	-5.45
+Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F	Tetrafluthrin	-7.321	-6.339
+C1CCOC1	Tetrahydrofurane 	0.49	-0.62
+C1CCOCC1	Tetrahydropyran 	-0.03	-0.978
+CN(C)C(=O)N(C)C 	tetramethylurea	0.94	-0.495
+O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13	Thalidomide	-2.676	-1.944
+Cn1cnc2n(C)c(=O)[nH]c(=O)c12 	theobromine	-2.523	-1.05
+Cn1c(=O)n(C)c2nc[nH]c2c1=O	Theophylline	-1.39	-1.452
+CS(=O)(=O)c1ccc(cc1)C(O)C(CO)NC(=O)C(Cl)Cl 	Thiamphenicol	-2.154	-1.936
+CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O 	thiamylal	-3.46	-3.063
+c1ccccc1SC	thioanisole	-2.39	-2.87
+CNC(=O)ON=C(CSC)C(C)(C)C 	thiofanox	-1.62	-2.7
+CCSCCSP(=S)(OC)OC	Thiometon	-3.091	-3.323
+CCCC(C)C1(CC)C(=O)NC(=S)NC1=O 	thiopental	-3.36	-2.96
+c1ccsc1	Thiophene	-1.33	-2.232
+Sc1ccccc1	Thiophenol 	-2.12	-2.758
+Sc1nccc(=O)[nH]1 	thiouracil	-2.273	-0.992
+NC(=S)N	Thiourea	0.32	0.329
+CN(C)C(=S)SSC(=S)N(C)C 	Thiram	-3.9	-2.444
+Cc1c[nH]c(=O)[nH]c1=O 	thymine	-1.506	-0.78
+CC(C)c1ccc(C)cc1O	Thymol	-2.22	-3.129
+Cc1ccccc1	Toluene 	-2.21	-2.713
+CC(C)(C)Cc1ccccc1	t-Pentylbenzene	-4.15	-3.867
+C/C1CCC(\C)CC1	"trans-1,4-Dimethylcyclohexane"	-4.47	-3.305
+CCCC/C=C/C	trans-2-Heptene 	-3.82	-2.784
+CC/C=C/C	trans-2-Pentene 	-2.54	-2.076
+CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n2cncn2	Triadimefon	-3.61	-4.132
+CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl	Triallate	-4.88	-4.578
+CC34CC(O)C1(F)C(CCC2=CC(=O)C=CC12C)C3CC(O)C4(O)C(=O)CO	Triamcinolone	-3.68	-2.734
+CC5(C)OC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O5)C(=O)CO 	triamcinolone acetonide	-4.31	-3.928
+CC(=O)OCC(=O)C3(O)C(CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)OC(C)=O 	triamcinolone diacetate	-4.13	-3.876
+Nc3nc(N)c2nc(c1ccccc1)c(N)nc2n3	Triamterene	-2.404	-3.051
+Cc3nnc4CN=C(c1ccccc1Cl)c2cc(Cl)ccc2n34	Triazolam	-4.09	-3.948
+BrC(Br)Br	Tribromomethane	-1.91	-2.904
+NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl 	Trichlomethiazide	-2.68	-2.98
+COP(=O)(OC)C(O)C(Cl)(Cl)Cl	Trichlorfon	-0.22	-1.866
+NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl 	trichlormethiazide	-2.68	-2.98
+ClC(Cl)(Cl)C#N	Trichloroacetonitrile	-2.168	-2.019
+ClC=C(Cl)Cl	Trichloroethylene	-1.96	-2.312
+ClC(Cl)Cl	Trichloromethane	-1.17	-1.812
+CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl	Trichloronate	-5.752	-5.225
+Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl	Triclosan	-4.46	-5.645
+Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc3ccccc3C)cc1	Tricresyl phosphate	-6.01	-6.39
+Cc2cccc3sc1nncn1c23 	Tricyclazole	-2.07	-2.868
+CCNc1nc(Cl)nc(n1)N(CC)CC	Trietazine	-4.06	-3.233
+CCOP(=O)(OCC)OCC	Triethyl phosphate	0.43	-0.953
+CCCN(CCC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O	Trifluralin	-5.68	-5.205
+ClC(Cl)(Cl)C(NC=O)N1C=CN(C=C1)C(NC=O)C(Cl)(Cl)Cl 	triforine	-4.19	-3.715
+COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O 	Trimazosin	-3.638	-3.958
+c1ccc2c(c1)c3ccccc3c4ccccc24	Triphenylene	-6.726	-5.568
+Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O 	tubercidin	-1.95	-0.892
+O=c1cc[nH]c(=O)[nH]1 	uracil	-1.488	-0.441
+NC(=O)N	Urea	0.96	0.832
+O=c2[nH]c(=O)c1[nH]c(=O)[nH]c1[nH]2 	uric acid	-3.93	-0.541
+CCCCC=O	Valeraldehyde	-0.85	-1.103
+CNC(=O)C(C)SCCSP(=O)(OC)(OC)	vamidothion	1.144	-1.446
+CC1(OC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2)C=C	Vinclozolin	-4.925	-4.377
+CC(=O)CC(c1ccccc1)c3c(O)c2ccccc2oc3=O 	Warfarin	-3.893	-3.913
+Cc1cccc(C)c1NC(=O)c2cc(c(Cl)cc2O)S(N)(=O)=O	Xipamide	-3.79	-3.642
+CNC(=O)Oc1cc(C)cc(C)c1	XMC	-2.581	-2.688
