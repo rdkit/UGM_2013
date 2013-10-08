@@ -50,11 +50,16 @@ IPython Notebook: [Download](Notebooks/Whats_new.ipyb) [View](http://nbviewer.ip
 
 Sereina Riniker
 
+Slides: [Presentations/Riniker.Benchmarking.pdf]([Presentations/Riniker.Benchmarking.pdf)
+
+
 - - - - - - 
 
 **Fraggle, A New Similarity Algorithm**
 
 Jameed Hussain
+
+Slides: [Presentations/Hussain.Fraggle.pdf]([Presentations/Hussain.Fraggle.pdf)
 
 
 - - - - - - 
@@ -83,11 +88,15 @@ Francis Atkinson
 
 Roger Sayle
 
+Slides: [Presentations/Sayle.RDKitGems.pdf]([Presentations/Sayle.RDKitGems.pdf)
+
 - - - - - - 
 
 **Not just for molecules: Reaction fingerprints**
 
 Greg Landrum
+
+Slides: [Presentations/Landrum.Reaction Fingerprints.final.pdf]([Presentations/Landrum.Reaction Fingerprints.final.pdf)
 
 
 - - - - - - 
@@ -96,6 +105,8 @@ Greg Landrum
 
 Nicholas Firth
 
+Slides: [Presentations/Firth.230913-RDKitUGM.pdf]([Presentations/Firth.230913-RDKitUGM.pdf)
+
 
 - - - - - - 
 
@@ -103,11 +114,15 @@ Nicholas Firth
 
 Tjelvar Olsson
 
+Slides: [Presentations/Olsson_RDKit_UGM_2013.pdf]([Presentations/Olsson_RDKit_UGM_2013.pdf)
+
 - - - - - - 
 
 **Bringing MMFF to the RDKit**
 
 Paolo Tosco
+
+Slides: [Presentations/Tosco.RDKit_UGM2013.pdf]([Presentations/Tosco.RDKit_UGM2013.pdf)
 
 
 - - - - - - 
@@ -116,12 +131,15 @@ Paolo Tosco
 
 Michal Nowotka
 
+Slides: [Presentations/Nowotka_ChEMBL beaker.pdf]([Presentations/Nowotka_ChEMBL beaker.pdf)
 
 - - - - - - 
 
 **Clippy - A Little wx Widget Based On RDKit Web Services**
 
 George Papadatos
+
+Slides: [Presentations/Papadatos_Clippy_RDKit_UGM2.pdf]([Presentations/Papadatos_Clippy_RDKit_UGM2.pdf)
 
 - - - - - - 
 
@@ -155,6 +173,10 @@ Nikolas Fechner
 **MMPA**
 
 Jameed Hussain
+
+IPython Notebook 1: [Download](Tutorials/mmpa_tutorial/mmp_tutorial1.ipynb) [View](http://nbviewer.ipython.org/urls/raw.github.com/rdkit/UGM_2013/master/Tutorials/mmpa_tutorial/mmp_tutorial1.ipynb)
+
+IPython Notebook 2: [Download](Tutorials/mmpa_tutorial/mmp_tutorial2.ipynb) [View](http://nbviewer.ipython.org/urls/raw.github.com/rdkit/UGM_2013/master/Tutorials/mmpa_tutorial/mmp_tutorial2.ipynb)
 
 - - - - - - 
 
