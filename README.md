@@ -50,7 +50,7 @@ IPython Notebook: [Download](Notebooks/Whats_new.ipyb) [View](http://nbviewer.ip
 
 Sereina Riniker
 
-Slides: [Presentations/Riniker.Benchmarking.pdf]([Presentations/Riniker.Benchmarking.pdf)
+Slides: [Presentations/Riniker.Benchmarking.pdf](Presentations/Riniker.Benchmarking.pdf)
 
 
 - - - - - - 
@@ -59,7 +59,7 @@ Slides: [Presentations/Riniker.Benchmarking.pdf]([Presentations/Riniker.Benchmar
 
 Jameed Hussain
 
-Slides: [Presentations/Hussain.Fraggle.pdf]([Presentations/Hussain.Fraggle.pdf)
+Slides: [Presentations/Hussain.Fraggle.pdf](Presentations/Hussain.Fraggle.pdf)
 
 
 - - - - - - 
