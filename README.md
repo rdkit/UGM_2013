@@ -88,7 +88,7 @@ Francis Atkinson
 
 Roger Sayle
 
-Slides: [Presentations/Sayle.RDKitGems.pdf]([Presentations/Sayle.RDKitGems.pdf)
+Slides: [Presentations/Sayle.RDKitGems.pdf](Presentations/Sayle.RDKitGems.pdf)
 
 - - - - - - 
 
@@ -96,7 +96,7 @@ Slides: [Presentations/Sayle.RDKitGems.pdf]([Presentations/Sayle.RDKitGems.pdf)
 
 Greg Landrum
 
-Slides: [Presentations/Landrum.Reaction Fingerprints.final.pdf]([Presentations/Landrum.Reaction Fingerprints.final.pdf)
+Slides: [Presentations/Landrum.Reaction Fingerprints.final.pdf](Presentations/Landrum.Reaction Fingerprints.final.pdf)
 
 
 - - - - - - 
@@ -105,7 +105,7 @@ Slides: [Presentations/Landrum.Reaction Fingerprints.final.pdf]([Presentations/L
 
 Nicholas Firth
 
-Slides: [Presentations/Firth.230913-RDKitUGM.pdf]([Presentations/Firth.230913-RDKitUGM.pdf)
+Slides: [Presentations/Firth.230913-RDKitUGM.pdf](Presentations/Firth.230913-RDKitUGM.pdf)
 
 
 - - - - - - 
@@ -114,7 +114,7 @@ Slides: [Presentations/Firth.230913-RDKitUGM.pdf]([Presentations/Firth.230913-RD
 
 Tjelvar Olsson
 
-Slides: [Presentations/Olsson_RDKit_UGM_2013.pdf]([Presentations/Olsson_RDKit_UGM_2013.pdf)
+Slides: [Presentations/Olsson_RDKit_UGM_2013.pdf](Presentations/Olsson_RDKit_UGM_2013.pdf)
 
 - - - - - - 
 
@@ -122,7 +122,7 @@ Slides: [Presentations/Olsson_RDKit_UGM_2013.pdf]([Presentations/Olsson_RDKit_UG
 
 Paolo Tosco
 
-Slides: [Presentations/Tosco.RDKit_UGM2013.pdf]([Presentations/Tosco.RDKit_UGM2013.pdf)
+Slides: [Presentations/Tosco.RDKit_UGM2013.pdf](Presentations/Tosco.RDKit_UGM2013.pdf)
 
 
 - - - - - - 
@@ -131,7 +131,7 @@ Slides: [Presentations/Tosco.RDKit_UGM2013.pdf]([Presentations/Tosco.RDKit_UGM20
 
 Michal Nowotka
 
-Slides: [Presentations/Nowotka_ChEMBL beaker.pdf]([Presentations/Nowotka_ChEMBL beaker.pdf)
+Slides: [Presentations/Nowotka_ChEMBL beaker.pdf](Presentations/Nowotka_ChEMBL beaker.pdf)
 
 - - - - - - 
 
@@ -139,7 +139,7 @@ Slides: [Presentations/Nowotka_ChEMBL beaker.pdf]([Presentations/Nowotka_ChEMBL 
 
 George Papadatos
 
-Slides: [Presentations/Papadatos_Clippy_RDKit_UGM2.pdf]([Presentations/Papadatos_Clippy_RDKit_UGM2.pdf)
+Slides: [Presentations/Papadatos_Clippy_RDKit_UGM2.pdf](Presentations/Papadatos_Clippy_RDKit_UGM2.pdf)
 
 - - - - - - 
 
