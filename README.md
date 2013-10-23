@@ -168,6 +168,8 @@ IPython Notebook: [Download](Notebooks/DiversityFiltering/Diversity_Filtering.ip
 
 Nikolas Fechner
 
+IPython Notebook: [Download](Tutorials/pandastools/Pandas_RDKit_UGM.ipynb) [View](http://nbviewer.ipython.org/urls/raw.github.com/rdkit/UGM_2013/master/Tutorials/pandastools/Pandas_RDKit_UGM.ipynb)
+
 - - - - - - 
 
 **MMPA**
