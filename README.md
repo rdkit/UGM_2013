@@ -68,6 +68,7 @@ Slides: [Presentations/Hussain.Fraggle.pdf](Presentations/Hussain.Fraggle.pdf)
 
 Gregori Gerebtzoff
 
+Slides: [Presentations/Gerebtzoff.LUCID.pdf](Presentations/Gerebtzoff.LUCID.pdf)
 
 - - - - - - 
 
